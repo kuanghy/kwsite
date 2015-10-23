@@ -98,7 +98,8 @@
 		{ "name":"友言评论系统", "url":"http://www.uyan.cc/", "icon":"http://www.uyan.cc/favicon.ico", "title":"友言评论系统" },
 		{ "name":"Python官方资料库", "url":"http://www.python.org/ftp/python/", "icon":"https://www.python.org/static/favicon.ico", "title":"Python官方资料库" },
 		{ "name":"Python官方文档中文站", "url":"http://python.usyiyi.cn/", "icon":"https://www.python.org/static/favicon.ico", "title":"Python官方文档中文站" },
-		{ "name":"Debian 新维护人员手册", "url":"https://www.debian.org/doc/manuals/maint-guide/index.zh-cn.html", "icon":"https://www.debian.org/favicon.ico", "title":"Debian 新维护人员手册" }
+		{ "name":"Debian 新维护人员手册", "url":"https://www.debian.org/doc/manuals/maint-guide/index.zh-cn.html", "icon":"https://www.debian.org/favicon.ico", "title":"Debian 新维护人员手册" },
+		{ "name":"Git-Book 简体中文", "url":"http://git-scm.com/book/zh/v2", "icon":"http://git-scm.com/favicon.ico", "title":"Git-Book 简体中文"}
 	],
 
 	"opensource": [

@@ -191,6 +191,7 @@
 		{ "name":"百度云", "url":"http://yun.baidu.com/", "icon":"http://pan.baidu.com/static/images/favicon.ico", "title":"百度云" },
 		{ "name":"360云盘", "url":"http://yunpan.360.cn/", "icon":"http://yunpan.360.cn/favicon.ico", "title":"360云盘" },
 		{ "name":"酷盘", "url":"https://kanbox.com/", "icon":"https://kanbox.com/favicon.ico", "title":"酷盘" },
+		{ "name":"微云", "url":"http://www.weiyun.com/", "icon":"http://www.weiyun.com/favicon.ico", "title":"腾讯微云" },
 		{ "name":"七牛云存储", "url":"http://www.qiniu.com/", "icon":"http://www.qiniu.com/favicon.ico", "title":"七牛云存储" }
 	],
 

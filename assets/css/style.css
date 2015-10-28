@@ -20,6 +20,13 @@ html, body {
 }
 
 /**
+ * 去除 img 默认边框
+ */
+img {
+    border:0;
+}
+
+/**
  * 页面整体由两个 div 构成， half 为上部主体，footer 为页脚
  * half 主要用于
  */

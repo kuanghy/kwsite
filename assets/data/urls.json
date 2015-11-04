@@ -80,6 +80,7 @@
 		{ "name":"在线工具--做最专业的工具网站", "url":"http://tool.lu/", "icon":"http://tool.lu/favicon.ico", "title":"在线工具--做最专业的工具网站" },
 		{ "name":"在线颜色生成器", "url":"http://rgb.pin5i.com/", "icon":"http://rgb.pin5i.com/favicon.ico", "title":"在线颜色生成器" },
 		{ "name":"美图秀秀网页版", "url":"http://xiuxiu.web.meitu.com/", "icon":"http://xiuxiu.web.meitu.com/favicon.ico", "title":"美图秀秀网页版" },
+		{ "name":"PS在线版", "url":"http://uupoop.com/", "icon":"http://uupoop.com/favicon.ico", "title":"在线照片处理器" },
 		{ "name":"Linux命令大全", "url":"http://man.linuxde.net/", "icon":"http://man.linuxde.net/favicon.ico", "title":"Linux命令大全" },
 		{ "name":"Ideone.com", "url":"http://ideone.com/", "icon":"http://ideone.com/favicon.ico", "title":"Ideone.com" },
 		{ "name":"Codepad.org", "url":"http://codepad.org/", "icon":"../assets/imgs/default.ico", "title":"Codepad.org" },

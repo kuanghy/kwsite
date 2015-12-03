@@ -70,7 +70,7 @@
 		{ "name":"Python 中文学习大本营", "url":"http://www.pythondoc.com/", "icon":"http://www.pythondoc.com/img/favicon.png", "title":"Python 中文学习大本营" },
 		{ "name":"Django1.5 中文文档", "url":"http://django-chinese-docs.readthedocs.org/en/latest/", "icon":"../assets/imgs/default.ico", "title":"Django1.5 中文文档" },
 		{ "name":"Django Step by Step", "url":"http://www.lhelper.org/dev/django_step_by_step/newtest/doc/", "icon":"../assets/imgs/default.ico", "title":"Django Step by Step" },
-		{ "name":"DockerPool", "url":"http://dockerpool.com/", "icon":"../assets/imgs/default.ico", "title":"DockerPool" }
+		{ "name":"DockerPool", "url":"http://dockerpool.com/", "icon":"../assets/imgs/default.ico", "title":"DockerPool" },
 		{ "name":"Flask 中文文档", "url":"http://dormousehole.readthedocs.org/en/latest/", "icon":".dormousehole.readthedocs.org/favicon.ico", "title":"Flask 中文文档" }
 	],
 

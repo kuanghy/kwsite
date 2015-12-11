@@ -73,7 +73,7 @@
 		{ "name":"DockerPool", "url":"http://dockerpool.com/", "icon":"../assets/imgs/default.ico", "title":"DockerPool" },
 		{ "name":"Flask 中文文档", "url":"http://dormousehole.readthedocs.org/en/latest/", "icon":"http://dormousehole.readthedocs.org/favicon.ico", "title":"Flask 中文文档" },
 		{ "name":"Flask 中文学习网", "url":"http://flask123.sinaapp.com/", "icon":"http://flask123.sinaapp.com/favicon.ico", "title":"分享Flask教程、扩展插件、编程技巧" },
-		{ "name":"Jinja2 中文文档", "url":"http://docs.jinkan.org/docs/jinja2/", "icon":"../assets/imgs/default.ico", "title":"Jinja2 中文文档"}
+		{ "name":"Jinja2 中文文档", "url":"http://docs.jinkan.org/docs/jinja2/", "icon":"../assets/imgs/default.ico", "title":"Jinja2 中文文档"},
 		{ "name":"Flask-SQLAlchemy 中文文档", "url":"http://www.pythondoc.com/flask-sqlalchemy/index.html", "icon":"../assets/imgs/default.ico", "title":"Flask-SQLAlchemy 中文文档"}
 	],
 

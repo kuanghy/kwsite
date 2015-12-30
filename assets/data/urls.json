@@ -121,7 +121,7 @@
 		{ "name":"Linux伊甸园", "url":"http://www.linuxeden.com/", "icon":"http://www.linuxeden.com/favicon.ico", "title":"Linux伊甸园" },
 		{ "name":"LinuxStory", "url":"http://www.linuxstory.org/", "icon":"http://www.linuxstory.org/favicon.ico", "title":"LinuxStory" },
 		{ "name":"OpenHub", "url":"http://code.openhub.net/", "icon":"http://code.openhub.net/favicon.ico", "title":"OpenHub" },
-		{ "name":"Ubuntuthemes", "url":"http://www.ubuntuthemes.org/", "icon":"../assets/imgs/default.ico", "title":"Ubuntuthemes" },
+		{ "name":"Ubuntuthemes", "url":"http://www.ubuntuthemes.org/", "icon":"http://www.ubuntuthemes.org/wp-content/uploads/favicon.ico", "title":"Ubuntuthemes" },
 		{ "name":"ubuntu-art", "url":"http://ubuntu-art.org/", "icon":"http://static.ubuntu-art.org/img/favicon-24-1.ico", "title":"ubuntu-art" },
 		{ "name":"GNOME-LOOK", "url":"http://gnome-look.org/", "icon":"http://gnome-look.org/img/favicon-2-1.ico", "title":"gnome-look" },
 		{ "name":"OMGUbuntu", "url":"http://www.omgubuntu.co.uk/", "icon":"http://www.omgubuntu.co.uk/wp-content/themes/omgunified-ubuntu/images/logo.png", "title":"omgubuntu" }

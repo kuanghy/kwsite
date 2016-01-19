@@ -66,13 +66,12 @@
 		{ "name":"PythonTab", "url":"http://www.pythontab.com/", "icon":"http://www.pythontab.com/favicon.ico", "title":"PYTHON开发者门户" },
 		{ "name":"玩蛇网", "url":"http://www.iplaypython.com/", "icon":"http://www.iplaypython.com/favicon.ico", "title":"玩蛇网" },
 		{ "name":"老王Python", "url":"http://www.cnpythoner.com/", "icon":"../assets/imgs/default.ico", "title":"老王Python提供简单实用的Python教程" },
-		{ "name":"PyQt5入门教程", "url":"http://www.cdwanze.org/python/PyQt5/PyQt5%E5%85%A5%E9%97%A8.html", "icon":"../assets/imgs/default.ico", "title":"PyQt5入门教程" },
-		{ "name":"PyQt5中级教程", "url":"http://www.cdwanze.org/python/PyQt5/PyQt5%E4%B8%AD%E7%BA%A7%E6%95%99%E7%A8%8B.html", "icon":"../assets/imgs/default.ico", "title":"PyQt5中级教程" },
 		{ "name":"Django基础教程", "url":"http://www.ziqiangxuetang.com/django/django-tutorial.html", "icon":"http://www.ziqiangxuetang.com/favicon.ico", "title":"Django基础教程" },
 		{ "name":"The Django Book", "url":"http://djangobook.py3k.cn/2.0/", "icon":"../assets/imgs/default.ico", "title":"The Django Book" },
 		{ "name":"Python 中文学习大本营", "url":"http://www.pythondoc.com/", "icon":"http://www.pythondoc.com/img/favicon.png", "title":"Python 中文学习大本营" },
 		{ "name":"Django1.5 中文文档", "url":"http://django-chinese-docs.readthedocs.org/en/latest/", "icon":"../assets/imgs/default.ico", "title":"Django1.5 中文文档" },
 		{ "name":"Django Step by Step", "url":"http://www.lhelper.org/dev/django_step_by_step/newtest/doc/", "icon":"../assets/imgs/default.ico", "title":"Django Step by Step" },
+		{ "name":"Django 中国社区", "url":"http://www.django-china.cn/", "icon":"http://www.django-china.cn/static/img/favicon.ico", "title":"Django中国社区，专注于Django中国技术发展的社区" },
 		{ "name":"DockerPool", "url":"http://dockerpool.com/", "icon":"../assets/imgs/default.ico", "title":"DockerPool" },
 		{ "name":"Flask 中文文档", "url":"http://dormousehole.readthedocs.org/en/latest/", "icon":"http://dormousehole.readthedocs.org/favicon.ico", "title":"Flask 中文文档" },
 		{ "name":"Flask 中文学习网", "url":"http://flask123.sinaapp.com/", "icon":"http://flask123.sinaapp.com/favicon.ico", "title":"分享Flask教程、扩展插件、编程技巧" },
@@ -170,8 +169,7 @@
 		{ "name":"爱密码", "url":"http://521xunlei.com/", "icon":"http://521xunlei.com/favicon.ico", "title":"迅雷会员账号分享平台" },
 		{ "name":"迅雷粉", "url":"http://xlfans.com/", "icon":"../assets/imgs/default.ico", "title":"专业的迅雷会员账号分享" },
 		{ "name":"archsocks", "url":"http://www.archsocks.com/", "icon":"../assets/imgs/default.ico", "title":"网络加速代理" },
-		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" },
-		{ "name":"isWTF's blog", "url":"http://blog.iswtf.com/", "icon":"http://blog.iswtf.com/favicon.ico", "title":"isWTF's blog" }
+		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" }	
 	],
 
 	"flink": [
@@ -184,7 +182,8 @@
 		{ "name":"YOUNG.ZERO", "url":"http://www.ydianz.com/", "icon":"http://www.ydianz.com/wp-content/uploads/2016/01/2.png", "title":"YOUNG.ZERO" },
 		{ "name":"WEB骇客", "url":"http://www.webhek.com/", "icon":"http://www.webhek.com/favicon.ico", "title":"WEB骇客" },
 		{ "name":"侠客创想", "url":"http://www.qaulau.com/", "icon":"http://www.qaulau.com/favicon.ico", "title":"记录成长的点滴,分享互联网的那些事" },
-		{ "name":"代码珠玑", "url":"http://www.codepearl.com/", "icon":"http://www.codepearl.com/favicon.ico", "title":"做您最好的代码分享平台" }
+		{ "name":"代码珠玑", "url":"http://www.codepearl.com/", "icon":"http://www.codepearl.com/favicon.ico", "title":"做您最好的代码分享平台" },
+		{ "name":"isWTF's blog", "url":"http://blog.iswtf.com/", "icon":"http://blog.iswtf.com/favicon.ico", "title":"isWTF's blog" }
 	],
 
 	"music": [

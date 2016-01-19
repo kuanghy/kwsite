@@ -38,33 +38,36 @@
 	"technology": [
 		{ "name":"菜鸟教程", "url":"http://www.w3cschool.cc/", "icon":"http://www.w3cschool.cc/favicon.ico", "title":"菜鸟教程" },
 		{ "name":"W3school", "url":"http://www.w3school.com.cn/", "icon":"http://www.w3school.com.cn/favicon.ico", "title":"W3school" },
+		{ "name":"伯乐在线", "url":"http://www.jobbole.com/", "icon":"http://www.jobbole.com/favicon.ico", "title":"JOBBOLE伯乐在线" },
+		{ "name":"Stackoverflow.com", "url":"http://teliute.org/", "icon":"http://teliute.org/images/favicon.ico", "title":"Stackoverflow.com" },
+		{ "name":"Outofmemory.cn", "url":"http://outofmemory.cn/", "icon":"http://outofmemory.cn/favicon.ico", "title":"内存.溢出" },
+		{ "name":"易百教程", "url":"http://www.yiibai.com/", "icon":"http://www.yiibai.com/favicon.ico", "title":"易百教程" },
+		{ "name":"码农网", "url":"http://www.codeceo.com/", "icon":"http://www.codeceo.com/wp-content/themes/d-simple/img/logo.png", "title":"码农网" },
 		{ "name":"Ｃ语言中文网", "url":"http://c.biancheng.net/", "icon":"http://c.biancheng.net/cpp/favicon.ico", "title":"Ｃ语言中文网" },
 		{ "name":"西晋学院", "url":"http://www.simplexue.com/", "icon":"http://www.simplexue.com/favicon.ico", "title":"西晋学院" },
 		{ "name":"慕课网", "url":"http://www.imooc.com/", "icon":"http://www.imooc.com/favicon.ico", "title":"慕课网" },
 		{ "name":"极课学院", "url":"http://www.jikexueyuan.com/", "icon":"http://www.jikexueyuan.com/favicon.ico", "title":"极课学院" },
 		{ "name":"SQLite中文站", "url":"http://www.sqlite.com.cn/", "icon":"http://www.sqlite.org/favicon.ico", "title":"SQLite中文站" },
 		{ "name":"SQLite官方网站", "url":"http://www.sqlite.org/", "icon":"http://www.sqlite.org/favicon.ico", "title":"SQLite官方网站" },
-		{ "name":"Outofmemory.cn", "url":"http://outofmemory.cn/", "icon":"http://outofmemory.cn/favicon.ico", "title":"内存.溢出" },
+		{ "name":"SQL语句教程", "url":"http://www.1keydata.com/cn/sql/", "icon":"http://www.1keydata.com/favicon.ico", "title":"SQL语句教程--1keydata" },
 		{ "name":"PHP100", "url":"http://www.php100.com/", "icon":"http://www.php100.com/favicon.ico", "title":"PHP100" },
-		{ "name":"Stackoverflow.com", "url":"http://teliute.org/", "icon":"http://teliute.org/images/favicon.ico", "title":"Stackoverflow.com" },
 		{ "name":"PHPChina", "url":"http://www.phpchina.com/", "icon":"http://school.phpchina.com/Public/Static/Images/favicon.ico", "title":"PHPChina" },
 		{ "name":"W3Cfuns", "url":"http://www.w3cfuns.com", "icon":"http://www.w3cfuns.com/favicon.ico", "title":"W3Cfuns" },
-		{ "name":"51学吧", "url":"http://www.51xue8.com/", "icon":"../assets/imgs/default.ico", "title":"51学吧" },
-		{ "name":"码农网", "url":"http://www.codeceo.com/", "icon":"http://www.codeceo.com/wp-content/themes/d-simple/img/logo.png", "title":"码农网" },
-		{ "name":"SQL语句教程", "url":"http://www.1keydata.com/cn/sql/", "icon":"http://www.1keydata.com/favicon.ico", "title":"SQL语句教程--1keydata" },
 		{ "name":"1keydata", "url":"http://www.1keydata.com/", "icon":"http://www.1keydata.com/favicon.ico", "title":"1keydata" },
 		{ "name":"爱酷学习网", "url":"http://www.icoolxue.com/", "icon":"http://res.icoolxue.com/icoolxue/res/img/favicon.png", "title":"爱酷学习网" },
 		{ "name":"酷勤网", "url":"http://www.kuqin.com/", "icon":"http://www.kuqin.com/favicon.ico", "title":"酷勤网" },
+		{ "name":"我要自学网", "url":"http://www.51zxw.net/", "icon":"http://www.51zxw.net/favicon.ico", "title":"我要自学网" },
+		{ "name":"51学吧", "url":"http://www.51xue8.com/", "icon":"../assets/imgs/default.ico", "title":"51学吧" },
 		{ "name":"实验楼", "url":"http://www.shiyanlou.com/", "icon":"http://dn-syl-static.qbox.me/favicon.ico", "title":"实验楼" },
-		{ "name":"易百教程", "url":"http://www.yiibai.com/", "icon":"http://www.yiibai.com/favicon.ico", "title":"易百教程" },
 		{ "name":"RubyChina社区", "url":"http://ruby-china.org/", "icon":"http://ruby-china.org/favicon.ico", "title":"RubyChina社区" },
 		{ "name":"Ruby-lang.org", "url":"http://www.ruby-lang.org", "icon":"http://www.ruby-lang.org/favicon.ico", "title":"Ruby-lang.org" },
-		{ "name":"我要自学网", "url":"http://www.51zxw.net/", "icon":"http://www.51zxw.net/favicon.ico", "title":"我要自学网" },
-		{ "name":"简明 Python 教程", "url":"http://www.kuqin.com/abyteofpython_cn/index.html", "icon":"http://www.kuqin.com/favicon.ico", "title":"简明 Python 教程" },
 		{ "name":"廖雪峰的官方网站", "url":"http://www.liaoxuefeng.com/", "icon":"http://www.liaoxuefeng.com/favicon.ico", "title":"廖雪峰的官方网站" },
+		{ "name":"简明 Python 教程", "url":"http://www.kuqin.com/abyteofpython_cn/index.html", "icon":"http://www.kuqin.com/favicon.ico", "title":"简明 Python 教程" },
+		{ "name":"PythonTab", "url":"http://www.pythontab.com/", "icon":"http://www.pythontab.com/favicon.ico", "title":"PYTHON开发者门户" },
+		{ "name":"玩蛇网", "url":"http://www.iplaypython.com/", "icon":"http://www.iplaypython.com/favicon.ico", "title":"玩蛇网" },
+		{ "name":"老王Python", "url":"http://www.cnpythoner.com/", "icon":"../assets/imgs/default.ico", "title":"老王Python提供简单实用的Python教程" },
 		{ "name":"PyQt5入门教程", "url":"http://www.cdwanze.org/python/PyQt5/PyQt5%E5%85%A5%E9%97%A8.html", "icon":"../assets/imgs/default.ico", "title":"PyQt5入门教程" },
 		{ "name":"PyQt5中级教程", "url":"http://www.cdwanze.org/python/PyQt5/PyQt5%E4%B8%AD%E7%BA%A7%E6%95%99%E7%A8%8B.html", "icon":"../assets/imgs/default.ico", "title":"PyQt5中级教程" },
-		{ "name":"玩蛇网", "url":"http://www.iplaypython.com/", "icon":"http://www.iplaypython.com/favicon.ico", "title":"玩蛇网" },
 		{ "name":"Django基础教程", "url":"http://www.ziqiangxuetang.com/django/django-tutorial.html", "icon":"http://www.ziqiangxuetang.com/favicon.ico", "title":"Django基础教程" },
 		{ "name":"The Django Book", "url":"http://djangobook.py3k.cn/2.0/", "icon":"../assets/imgs/default.ico", "title":"The Django Book" },
 		{ "name":"Python 中文学习大本营", "url":"http://www.pythondoc.com/", "icon":"http://www.pythondoc.com/img/favicon.png", "title":"Python 中文学习大本营" },
@@ -75,6 +78,7 @@
 		{ "name":"Flask 中文学习网", "url":"http://flask123.sinaapp.com/", "icon":"http://flask123.sinaapp.com/favicon.ico", "title":"分享Flask教程、扩展插件、编程技巧" },
 		{ "name":"Jinja2 中文文档", "url":"http://docs.jinkan.org/docs/jinja2/", "icon":"../assets/imgs/default.ico", "title":"Jinja2 中文文档"},
 		{ "name":"Flask-SQLAlchemy 中文文档", "url":"http://www.pythondoc.com/flask-sqlalchemy/index.html", "icon":"../assets/imgs/default.ico", "title":"Flask-SQLAlchemy 中文文档"},
+		{ "name":"Tornado 中文文档", "url":"http://demo.pythoner.com/itt2zh/index.html", "icon":"http://demo.pythoner.com/favicon.ico", "title":"Tornado 中文文档"},
 		{ "name":"探索 Flask", "url":"http://www.pythondoc.com/exploreflask/index.html", "icon":"../assets/imgs/default.ico", "title":"Explore Flask 1.0 documentation"}
 	],
 
@@ -119,7 +123,11 @@
 		{ "name":"ChinaUnix", "url":"http://www.chinaunix.net/", "icon":"http://www.chinaunix.net/favicon.ico", "title":"ChinaUnix" },
 		{ "name":"Linux伊甸园", "url":"http://www.linuxeden.com/", "icon":"http://www.linuxeden.com/favicon.ico", "title":"Linux伊甸园" },
 		{ "name":"LinuxStory", "url":"http://www.linuxstory.org/", "icon":"http://www.linuxstory.org/favicon.ico", "title":"LinuxStory" },
-		{ "name":"OpenHub", "url":"http://code.openhub.net/", "icon":"http://code.openhub.net/favicon.ico", "title":"OpenHub" }
+		{ "name":"OpenHub", "url":"http://code.openhub.net/", "icon":"http://code.openhub.net/favicon.ico", "title":"OpenHub" },
+		{ "name":"Ubuntuthemes", "url":"http://www.ubuntuthemes.org/", "icon":"http://www.ubuntuthemes.org/wp-content/uploads/favicon.ico", "title":"Ubuntuthemes" },
+		{ "name":"ubuntu-art", "url":"http://ubuntu-art.org/", "icon":"http://static.ubuntu-art.org/img/favicon-24-1.ico", "title":"ubuntu-art" },
+		{ "name":"GNOME-LOOK", "url":"http://gnome-look.org/", "icon":"http://gnome-look.org/img/favicon-2-1.ico", "title":"gnome-look" },
+		{ "name":"OMGUbuntu", "url":"http://www.omgubuntu.co.uk/", "icon":"http://www.omgubuntu.co.uk/wp-content/themes/omgunified-ubuntu/images/logo.png", "title":"omgubuntu" }
 	],
 
 	"material": [
@@ -174,7 +182,9 @@
 		{ "name":"王垠的博客", "url":"http://www.yinwang.org/", "icon":"http://www.yinwang.org/images/Yc.jpg", "title":"王垠的博客" },
 		{ "name":"在路上", "url":"http://www.crifan.com/", "icon":"http://www.crifan.com/favicon.ico", "title":"在路上" },
 		{ "name":"YOUNG.ZERO", "url":"http://www.ydianz.com/", "icon":"http://www.ydianz.com/wp-content/uploads/2016/01/2.png", "title":"YOUNG.ZERO" },
-		{ "name":"WEB骇客", "url":"http://www.webhek.com/", "icon":"http://www.webhek.com/favicon.ico", "title":"WEB骇客" }
+		{ "name":"WEB骇客", "url":"http://www.webhek.com/", "icon":"http://www.webhek.com/favicon.ico", "title":"WEB骇客" },
+		{ "name":"侠客创想", "url":"http://www.qaulau.com/", "icon":"http://www.qaulau.com/favicon.ico", "title":"记录成长的点滴,分享互联网的那些事" },
+		{ "name":"代码珠玑", "url":"http://www.codepearl.com/", "icon":"http://www.codepearl.com/favicon.ico", "title":"做您最好的代码分享平台" }
 	],
 
 	"music": [

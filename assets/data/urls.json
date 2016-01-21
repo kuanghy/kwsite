@@ -192,6 +192,7 @@
 		{ "name":"QQ音乐", "url":"http://y.qq.com/", "icon":"http://y.qq.com/favicon.ico", "title":"QQ音乐" },
 		{ "name":"网易云音乐", "url":"http://music.163.com/", "icon":"http://s1.music.126.net/music.ico", "title":"网易云音乐" },
 		{ "name":"酷狗音乐", "url":"http://www.kugou.com/", "icon":"http://www.kugou.com/favicon.ico", "title":"酷狗音乐" },
+		{ "name":"5sing", "url":"http://5sing.kugou.com/", "icon":"http://5sing.kugou.com/favicon.ico", "title":"5sing中国原创音乐基地" },
 		{ "name":"百度乐播", "url":"http://lebo.baidu.com/", "icon":"http://lebo.baidu.com/static/image/icon/favicon.ico", "title":"百度乐播" },
 		{ "name":"咪咕音乐", "url":"http://music.migu.cn/", "icon":"http://music.migu.cn/favicon.ico", "title":"咪咕音乐" }
 	],

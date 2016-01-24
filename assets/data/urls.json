@@ -66,19 +66,13 @@
 		{ "name":"PythonTab", "url":"http://www.pythontab.com/", "icon":"http://www.pythontab.com/favicon.ico", "title":"PYTHON开发者门户" },
 		{ "name":"玩蛇网", "url":"http://www.iplaypython.com/", "icon":"http://www.iplaypython.com/favicon.ico", "title":"玩蛇网" },
 		{ "name":"老王Python", "url":"http://www.cnpythoner.com/", "icon":"../assets/imgs/default.ico", "title":"老王Python提供简单实用的Python教程" },
-		{ "name":"Django基础教程", "url":"http://www.ziqiangxuetang.com/django/django-tutorial.html", "icon":"http://www.ziqiangxuetang.com/favicon.ico", "title":"Django基础教程" },
-		{ "name":"The Django Book", "url":"http://djangobook.py3k.cn/2.0/", "icon":"../assets/imgs/default.ico", "title":"The Django Book" },
 		{ "name":"Python 中文学习大本营", "url":"http://www.pythondoc.com/", "icon":"http://www.pythondoc.com/img/favicon.png", "title":"Python 中文学习大本营" },
-		{ "name":"Django1.5 中文文档", "url":"http://django-chinese-docs.readthedocs.org/en/latest/", "icon":"../assets/imgs/default.ico", "title":"Django1.5 中文文档" },
+		{ "name":"Django基础教程", "url":"http://www.ziqiangxuetang.com/django/django-tutorial.html", "icon":"http://www.ziqiangxuetang.com/favicon.ico", "title":"Django基础教程" },
 		{ "name":"Django Step by Step", "url":"http://www.lhelper.org/dev/django_step_by_step/newtest/doc/", "icon":"../assets/imgs/default.ico", "title":"Django Step by Step" },
 		{ "name":"Django 中国社区", "url":"http://www.django-china.cn/", "icon":"http://www.django-china.cn/static/img/favicon.ico", "title":"Django中国社区，专注于Django中国技术发展的社区" },
-		{ "name":"DockerPool", "url":"http://dockerpool.com/", "icon":"../assets/imgs/default.ico", "title":"DockerPool" },
-		{ "name":"Flask 中文文档", "url":"http://dormousehole.readthedocs.org/en/latest/", "icon":"http://dormousehole.readthedocs.org/favicon.ico", "title":"Flask 中文文档" },
+		{ "name":"djangochina", "url":"http://www.djangochina.cn/", "icon":"http://www.djangochina.cn/favicon.ico", "title":"Django中国 | Django中文社区" },
 		{ "name":"Flask 中文学习网", "url":"http://flask123.sinaapp.com/", "icon":"http://flask123.sinaapp.com/favicon.ico", "title":"分享Flask教程、扩展插件、编程技巧" },
-		{ "name":"Jinja2 中文文档", "url":"http://docs.jinkan.org/docs/jinja2/", "icon":"../assets/imgs/default.ico", "title":"Jinja2 中文文档"},
-		{ "name":"Flask-SQLAlchemy 中文文档", "url":"http://www.pythondoc.com/flask-sqlalchemy/index.html", "icon":"../assets/imgs/default.ico", "title":"Flask-SQLAlchemy 中文文档"},
-		{ "name":"Tornado 中文文档", "url":"http://demo.pythoner.com/itt2zh/index.html", "icon":"http://demo.pythoner.com/favicon.ico", "title":"Tornado 中文文档"},
-		{ "name":"探索 Flask", "url":"http://www.pythondoc.com/exploreflask/index.html", "icon":"../assets/imgs/default.ico", "title":"Explore Flask 1.0 documentation"}
+		{ "name":"DockerPool", "url":"http://dockerpool.com/", "icon":"../assets/imgs/default.ico", "title":"DockerPool" }
 	],
 
 	"tool": [
@@ -107,7 +101,14 @@
 		{ "name":"Python官方资料库", "url":"http://www.python.org/ftp/python/", "icon":"https://www.python.org/static/favicon.ico", "title":"Python官方资料库" },
 		{ "name":"Python官方文档中文站", "url":"http://python.usyiyi.cn/", "icon":"https://www.python.org/static/favicon.ico", "title":"Python官方文档中文站" },
 		{ "name":"Debian 新维护人员手册", "url":"https://www.debian.org/doc/manuals/maint-guide/index.zh-cn.html", "icon":"https://www.debian.org/favicon.ico", "title":"Debian 新维护人员手册" },
-		{ "name":"Git-Book 简体中文", "url":"http://git-scm.com/book/zh/v2", "icon":"http://git-scm.com/favicon.ico", "title":"Git-Book 简体中文"}
+		{ "name":"Git-Book 简体中文", "url":"http://git-scm.com/book/zh/v2", "icon":"http://git-scm.com/favicon.ico", "title":"Git-Book 简体中文"},
+		{ "name":"The Django Book", "url":"http://djangobook.py3k.cn/2.0/", "icon":"../assets/imgs/default.ico", "title":"The Django Book" },
+		{ "name":"Django1.5 中文文档", "url":"http://django-chinese-docs.readthedocs.org/en/latest/", "icon":"../assets/imgs/default.ico", "title":"Django1.5 中文文档" },
+		{ "name":"Flask 中文文档", "url":"http://dormousehole.readthedocs.org/en/latest/", "icon":"http://dormousehole.readthedocs.org/favicon.ico", "title":"Flask 中文文档" },
+		{ "name":"探索 Flask", "url":"http://www.pythondoc.com/exploreflask/index.html", "icon":"../assets/imgs/default.ico", "title":"Explore Flask 1.0 documentation"},
+		{ "name":"Jinja2 中文文档", "url":"http://docs.jinkan.org/docs/jinja2/", "icon":"../assets/imgs/default.ico", "title":"Jinja2 中文文档"},
+		{ "name":"Flask-SQLAlchemy 中文文档", "url":"http://www.pythondoc.com/flask-sqlalchemy/index.html", "icon":"../assets/imgs/default.ico", "title":"Flask-SQLAlchemy 中文文档"},
+		{ "name":"Tornado 中文文档", "url":"http://demo.pythoner.com/itt2zh/index.html", "icon":"http://demo.pythoner.com/favicon.ico", "title":"Tornado 中文文档"}
 	],
 
 	"opensource": [

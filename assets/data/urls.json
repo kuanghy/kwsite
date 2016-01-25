@@ -148,7 +148,8 @@
 		{ "name":"Pkgs.org", "url":"http://pkgs.org/", "icon":"http://pkgs.org/static/images/favicon.ico", "title":"Linux 软件包搜索平台" },
 		{ "name":"RPM Search", "url":"http://rpm.pbone.net/", "icon":"http://rpm.pbone.net/favicon.ico", "title":"RPM 软件包搜索" },
 		{ "name":"LFD", "url":"http://www.lfd.uci.edu/", "icon":"http://www.lfd.uci.edu/favicon.ico", "title":"LFD" },
-		{ "name":"GoogleForChina", "url":"http://www.googleforchina.com/", "icon":"../assets/imgs/default.ico", "title":"GoogleForChina" }
+		{ "name":"GoogleForChina", "url":"http://www.googleforchina.com/", "icon":"../assets/imgs/default.ico", "title":"GoogleForChina" },
+		{ "name":"Nullege.com", "url":"http://nullege.com/", "icon":"http://nullege.com/favicon.ico", "title":"Python 源码搜索引擎" }
 	],
 
 	"collection": [

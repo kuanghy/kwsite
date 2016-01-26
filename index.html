@@ -42,7 +42,7 @@
             <a href="./"><img class="avatar" src="assets/imgs/khy_face_130.png" alt="" width="128" height="128"/></a>
             <h1>旷修</h1>
             <p>
-                软件工程师 @ 计算机科学与电子工程爱好者. &nbsp;关于我的更多资料可以看<a href="">这里</a>.
+                软件工程师 @ 计算机科学与电子工程爱好者. &nbsp;关于我的更多资料可以看<a href="http://blog.konghy.cn/20150510/aboutme/">这里</a>.
             </p>
             <p style="height: 24px; line-height: 24px; margin: 15px 0;">
                 <img style="vertical-align: bottom; margin-right: 10px;" src="assets/imgs/map_24px.png"/> 北京海淀 &middot; 中国
@@ -69,9 +69,13 @@
         <li><a href="http://weibo.com/loveqing2013" target="_blank"><img src="assets/imgs/social/weibo_32.png" class="img-responsive" title="点击查看我的微博"/></a></li>
     </ul>
     <p>
-         Design by <a href="/kwsite">Huoty</a> @ <a href="http://github.com/kuanghy/kwsite" target="_blank">Github</a> | Copyright &copy; 2015 <a href="/kwsite/">Huoty</a> - All Rights Reserved | <a href="./about/">About this site</a>.
+         Design by <a href="/kwsite">Huoty</a> @ <a href="http://github.com/kuanghy/kwsite" target="_blank">Github</a> | Copyright &copy; 2015-<span id="cur_year"></span> <a href="/kwsite/">Huoty</a> - All Rights Reserved | <a href="./about/">About this site</a>.
     </p>
 </div>
 <!-- end footer -->
+<script type="text/javascript">
+    var cur_date = new Date();
+    document.getElementById("cur_year").innerHTML = cur_date.getFullYear();
+</script>
 </body>
 </html>

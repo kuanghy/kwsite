@@ -215,7 +215,7 @@
 	],
 
 	"aboutme": [
-		{ "name":"个人博客", "url":"http://konghy.cn/", "icon":"../assets/imgs/favicon.ico", "title":"我的独立博客" },
+		{ "name":"个人博客", "url":"http://blog.konghy.cn/", "icon":"../assets/imgs/favicon.ico", "title":"我的独立博客" },
 		{ "name":"My Opus", "url":"http://opus.konghy.cn/", "icon":"http://opus.konghy.cn/favicon.ico", "title":"Huoty's opuses, 个人作品集" },
 		{ "name":"网易博客", "url":"http://konghy.blog.163.com/", "icon":"http://konghy.blog.163.com/favicon.ico", "title":"我的网易博客主页" },	
 		{ "name":"OSChina Blog", "url":"http://my.oschina.net/kuanghy/blog", "icon":"../assets/imgs/favicons/oschina.ico", "title":"我的开源中国技术博客" },

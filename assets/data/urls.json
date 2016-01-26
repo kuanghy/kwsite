@@ -107,7 +107,8 @@
 		{ "name":"探索 Flask", "url":"http://www.pythondoc.com/exploreflask/index.html", "icon":"../assets/imgs/default.ico", "title":"Explore Flask 1.0 documentation"},
 		{ "name":"Jinja2 中文文档", "url":"http://docs.jinkan.org/docs/jinja2/", "icon":"../assets/imgs/default.ico", "title":"Jinja2 中文文档"},
 		{ "name":"Flask-SQLAlchemy 中文文档", "url":"http://www.pythondoc.com/flask-sqlalchemy/index.html", "icon":"../assets/imgs/default.ico", "title":"Flask-SQLAlchemy 中文文档"},
-		{ "name":"Tornado 中文文档", "url":"http://demo.pythoner.com/itt2zh/index.html", "icon":"http://demo.pythoner.com/favicon.ico", "title":"Tornado 中文文档"}
+		{ "name":"Tornado 中文文档", "url":"http://demo.pythoner.com/itt2zh/index.html", "icon":"http://demo.pythoner.com/favicon.ico", "title":"Tornado 中文文档"},
+		{ "name":"jQuery 在线手册", "url":"http://hemin.cn/jq/", "icon":"http://hemin.cn/jq/img/favicon.ico", "title":"jQuery API 中文在线参考手册"}
 	],
 
 	"opensource": [

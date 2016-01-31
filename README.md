@@ -1,7 +1,7 @@
 KWSite
 ======
 
-[Konghy Website](http://kuanghy.github.io/kwsite/), 个人网络站点。
+[Konghy Website](http://konghy.cn/), 个人网络站点。
 
 ------
 

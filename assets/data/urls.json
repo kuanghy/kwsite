@@ -187,7 +187,8 @@
 		{ "name":"WEB骇客", "url":"http://www.webhek.com/", "icon":"http://www.webhek.com/favicon.ico", "title":"WEB骇客" },
 		{ "name":"侠客创想", "url":"http://www.qaulau.com/", "icon":"http://www.qaulau.com/favicon.ico", "title":"记录成长的点滴,分享互联网的那些事" },
 		{ "name":"代码珠玑", "url":"http://www.codepearl.com/", "icon":"http://www.codepearl.com/favicon.ico", "title":"做您最好的代码分享平台" },
-		{ "name":"isWTF's blog", "url":"http://blog.iswtf.com/", "icon":"http://blog.iswtf.com/favicon.ico", "title":"isWTF's blog" }
+		{ "name":"isWTF's blog", "url":"http://blog.iswtf.com/", "icon":"http://blog.iswtf.com/favicon.ico", "title":"isWTF's blog" },
+		{ "name":"人世间", "url":"http://www.jianshu.com/users/5qrPPM/latest_articles", "icon":"http://www.jianshu.com/favicon.ico", "title":"人世间-简书" }
 	],
 
 	"music": [

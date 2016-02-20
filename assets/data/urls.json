@@ -176,7 +176,9 @@
 		{ "name":"爱密码", "url":"http://521xunlei.com/", "icon":"http://521xunlei.com/favicon.ico", "title":"迅雷会员账号分享平台" },
 		{ "name":"迅雷粉", "url":"http://xlfans.com/", "icon":"../assets/imgs/default.ico", "title":"专业的迅雷会员账号分享" },
 		{ "name":"archsocks", "url":"http://www.archsocks.com/", "icon":"../assets/imgs/default.ico", "title":"网络加速代理" },
-		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" }	
+		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" },
+		{ "name":"全职招聘网", "url":"http://www.quanzhi.com/", "icon":"http://www.quanzhi.com/favicon.ico", "title":"全职招聘网" },
+		{ "name":"瞬聘网", "url":"http://www.shunpin.com/", "icon":"http://www.shunpin.com/favicon.ico", "title":"软件工程师自动化招聘" }	
 	],
 
 	"flink": [

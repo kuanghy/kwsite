@@ -61,6 +61,9 @@
 		{ "name":"实验楼", "url":"http://www.shiyanlou.com/", "icon":"http://dn-syl-static.qbox.me/favicon.ico", "title":"实验楼" },
 		{ "name":"RubyChina社区", "url":"http://ruby-china.org/", "icon":"http://ruby-china.org/favicon.ico", "title":"RubyChina社区" },
 		{ "name":"Ruby-lang.org", "url":"http://www.ruby-lang.org", "icon":"http://www.ruby-lang.org/favicon.ico", "title":"Ruby-lang.org" },
+		{ "name":"啄木鸟社区", "url":"http://wiki.woodpecker.org.cn/", "icon":"http://wiki.woodpecker.org.cn/favicon.ico", "title":"Woodpecker Wiki for CPUG" },
+		{ "name":"V2EX", "url":"https://www.v2ex.com/", "icon":"https://www.v2ex.com/favicon.ico", "title":"V2EX 是一个关于分享和探索的地方" },
+		{ "name":"Python4cn", "url":"http://www.simple-is-better.com/", "icon":"../assets/imgs/default.ico", "title":" Python4cn:文章 招聘 软件 酷站" },
 		{ "name":"廖雪峰的官方网站", "url":"http://www.liaoxuefeng.com/", "icon":"http://www.liaoxuefeng.com/favicon.ico", "title":"廖雪峰的官方网站" },
 		{ "name":"简明 Python 教程", "url":"http://www.kuqin.com/abyteofpython_cn/index.html", "icon":"http://www.kuqin.com/favicon.ico", "title":"简明 Python 教程" },
 		{ "name":"PythonTab", "url":"http://www.pythontab.com/", "icon":"http://www.pythontab.com/favicon.ico", "title":"PYTHON开发者门户" },
@@ -174,7 +177,9 @@
 		{ "name":"爱密码", "url":"http://521xunlei.com/", "icon":"http://521xunlei.com/favicon.ico", "title":"迅雷会员账号分享平台" },
 		{ "name":"迅雷粉", "url":"http://xlfans.com/", "icon":"../assets/imgs/default.ico", "title":"专业的迅雷会员账号分享" },
 		{ "name":"archsocks", "url":"http://www.archsocks.com/", "icon":"../assets/imgs/default.ico", "title":"网络加速代理" },
-		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" }	
+		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" },
+		{ "name":"全职招聘网", "url":"http://www.quanzhi.com/", "icon":"http://www.quanzhi.com/favicon.ico", "title":"全职招聘网" },
+		{ "name":"瞬聘网", "url":"http://www.shunpin.com/", "icon":"http://www.shunpin.com/favicon.ico", "title":"软件工程师自动化招聘" }	
 	],
 
 	"flink": [

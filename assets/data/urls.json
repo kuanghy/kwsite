@@ -72,11 +72,12 @@
 		{ "name":"Django 中国社区", "url":"http://www.django-china.cn/", "icon":"http://www.django-china.cn/static/img/favicon.ico", "title":"Django中国社区，专注于Django中国技术发展的社区" },
 		{ "name":"djangochina", "url":"http://www.djangochina.cn/", "icon":"http://www.djangochina.cn/favicon.ico", "title":"Django中国 | Django中文社区" },
 		{ "name":"Flask 中文学习网", "url":"http://flask123.sinaapp.com/", "icon":"http://flask123.sinaapp.com/favicon.ico", "title":"分享Flask教程、扩展插件、编程技巧" },
-		{ "name":"DockerPool", "url":"http://dockerpool.com/", "icon":"../assets/imgs/default.ico", "title":"DockerPool" }
+		{ "name":"DockerPool", "url":"http://dockerpool.com/", "icon":"../assets/imgs/default.ico", "title":"DockerPool" },
+		{ "name":"Docker 中文社区", "url":"http://dockerpool.com/", "icon":"http://www.docker.org.cn/favicon.ico", "title":"Docker 中文社区" }
 	],
 
 	"tool": [
-		{ "name":"OSChina在线工具", "url":"http://tool.oschina.net/", "icon":"http://tool.oschina.net/favicon.ico", "title":"在线工具--OSChina" },
+		{ "name":"OSChina在线工具", "url":"http://www.docker.org.cn/", "icon":"http://tool.oschina.net/favicon.ico", "title":"在线工具--OSChina" },
 		{ "name":"在线工具--做最专业的工具网站", "url":"http://tool.lu/", "icon":"http://tool.lu/favicon.ico", "title":"在线工具--做最专业的工具网站" },
 		{ "name":"在线颜色生成器", "url":"http://rgb.pin5i.com/", "icon":"http://rgb.pin5i.com/favicon.ico", "title":"在线颜色生成器" },
 		{ "name":"美图秀秀网页版", "url":"http://xiuxiu.web.meitu.com/", "icon":"http://xiuxiu.web.meitu.com/favicon.ico", "title":"美图秀秀网页版" },

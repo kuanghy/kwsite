@@ -188,6 +188,7 @@
 	],
 
 	"flink": [
+		{ "name":"JoinQuant", "url":"https://www.joinquant.com/", "icon":"https://www.joinquant.com/favicon.ico", "title":"聚宽量化交易平台" },
 		{ "name":"NaRay", "url":"http://www.cnblogs.com/naray/", "icon":"http://www.cnblogs.com/favicon.ico", "title":"NaRay" },
 		{ "name":"HJS Blog", "url":"http://www.hjshust.cn/", "icon":"http://www.hjshust.cn/favicon.ico", "title":"HJS Blog" },
 		{ "name":"Yonsm.NET", "url":"http://yonsm.net/", "icon":"http://yonsm.net/favicon.ico", "title":"Yonsm.NET" },

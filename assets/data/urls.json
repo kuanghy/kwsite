@@ -117,7 +117,8 @@
 		{ "name":"Tornado 中文文档", "url":"http://demo.pythoner.com/itt2zh/index.html", "icon":"http://demo.pythoner.com/favicon.ico", "title":"Tornado 中文文档"},
 		{ "name":"jQuery 在线手册", "url":"http://hemin.cn/jq/", "icon":"http://hemin.cn/jq/img/favicon.ico", "title":"jQuery API 中文在线参考手册"},
 		{ "name":"JavaScript 标准参考教程", "url":"http://javascript.ruanyifeng.com/", "icon":"http://javascript.ruanyifeng.com/favicon.ico", "title":"JavaScript 标准参考教程"},
-		{ "name":"CSS参考手册", "url":"http://css.doyoe.com/", "icon":"http://css.doyoe.com/doyoe.ico", "title":"CSS参考手册"}
+		{ "name":"CSS参考手册", "url":"http://css.doyoe.com/", "icon":"http://css.doyoe.com/doyoe.ico", "title":"CSS参考手册"},
+		{ "name":"Requests 中文文档", "url":"http://cn.python-requests.org/zh_CN/latest/", "icon":"http://cn.python-requests.org/favicon.ico", "title":"Requests: HTTP for Humans"}
 		
 	],
 
@@ -172,16 +173,11 @@
 		{ "name":"DzzOffice", "url":"http://www.dzzoffice.com/", "icon":"http://www.dzzoffice.com/favicon.ico", "title":"大桌子云办公平台" },
 		{ "name":"Helloweba", "url":"http://www.helloweba.com/", "icon":"http://www.helloweba.com/favicon.ico", "title":"Helloweba" },
 		{ "name":"PHP面向对象教程", "url":"http://blog.snsgou.com/post-41.html", "icon":"../assets/imgs/default.ico", "title":"PHP面向对象教程" },
-		{ "name":"恋爱纪念网页", "url":"https://github.com/hackerzhou/Love", "icon":"../assets/imgs/default.ico", "title":"一个恋爱纪念网页" },
 		{ "name":"CdPHP框架", "url":"http://www.cdvphp.com/", "icon":"../assets/imgs/default.ico", "title":"CdPHP框架" },
 		{ "name":"操作系统安全", "url":"http://blog.chinaunix.net/uid-26275986-id-4070559.html", "icon":"../assets/imgs/default.ico", "title":"操作系统安全--技术博客" },
-		{ "name":"免费搭建博客", "url":"http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html", "icon":"http://www.ruanyifeng.com/favicon.ico", "title":"搭建一个免费的Blog" },
-		{ "name":"GitHub Pages 建站", "url":"http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html", "icon":"http://www.cnblogs.com/favicon.ico", "title":"通过GitHub Pages建立个人站点" },
 		{ "name":"博客文章收藏网", "url":"http://programgo.com/", "icon":"../assets/imgs/default.ico", "title":"博客文章收藏网" },
-		{ "name":"Python 模块学习", "url":"http://blog.csdn.net/jgood/article/category/554799", "icon":"http://c.csdnimg.cn/public/favicon.ico", "title":"Python 模块学习" },
 		{ "name":"爱密码", "url":"http://521xunlei.com/", "icon":"http://521xunlei.com/favicon.ico", "title":"迅雷会员账号分享平台" },
 		{ "name":"迅雷粉", "url":"http://xlfans.com/", "icon":"../assets/imgs/default.ico", "title":"专业的迅雷会员账号分享" },
-		{ "name":"archsocks", "url":"http://www.archsocks.com/", "icon":"../assets/imgs/default.ico", "title":"网络加速代理" },
 		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" },
 		{ "name":"全职招聘网", "url":"http://www.quanzhi.com/", "icon":"http://www.quanzhi.com/favicon.ico", "title":"全职招聘网" },
 		{ "name":"瞬聘网", "url":"http://www.shunpin.com/", "icon":"http://www.shunpin.com/favicon.ico", "title":"软件工程师自动化招聘" }	

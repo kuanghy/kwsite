@@ -31,7 +31,9 @@
 		{ "name":"QQ邮箱", "url":"http://mail.qq.com/", "icon":"http://mail.qq.com/favicon.ico", "title":"QQ邮箱" },
 		{ "name":"有道云笔记", "url":"http://note.youdao.com/", "icon":"http://note.youdao.com/favicon.ico", "title":"有道云笔记" },
 		{ "name":"拉勾网", "url":"http://www.lagou.com/", "icon":"http://www.lagou.com/favicon.ico", "title":"拉勾网" },
-		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" }
+		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" },
+		{ "name":"马克飞象", "url":"https://maxiang.io/", "icon":"https://maxiang.io/favicon.ico", "title":"马克飞象" },
+		{ "name":"小书匠", "url":"http://markdown.xiaoshujiang.com/", "icon":"http://markdown.xiaoshujiang.com/favicon.ico", "title":"小书匠" }
 	],
 
 	"technology": [
@@ -51,7 +53,7 @@
 		{ "name":"SQLite官方网站", "url":"http://www.sqlite.org/", "icon":"http://www.sqlite.org/favicon.ico", "title":"SQLite官方网站" },
 		{ "name":"SQL语句教程", "url":"http://www.1keydata.com/cn/sql/", "icon":"http://www.1keydata.com/favicon.ico", "title":"SQL语句教程--1keydata" },
 		{ "name":"PHP100", "url":"http://www.php100.com/", "icon":"http://www.php100.com/favicon.ico", "title":"PHP100" },
-		{ "name":"PHPChina", "url":"http://www.phpchina.com/", "icon":"http://school.phpchina.com/Public/Static/Images/favicon.ico", "title":"PHPChina" },
+		{ "name":"PHPChina", "url":"http://www.phpchina.com/", "icon":"http://bbs.phpchina.com/favicon.ico", "title":"PHP 技术交流论坛" },
 		{ "name":"W3Cfuns", "url":"http://www.w3cfuns.com", "icon":"http://www.w3cfuns.com/favicon.ico", "title":"W3Cfuns" },
 		{ "name":"1keydata", "url":"http://www.1keydata.com/", "icon":"http://www.1keydata.com/favicon.ico", "title":"1keydata" },
 		{ "name":"爱酷学习网", "url":"http://www.icoolxue.com/", "icon":"http://res.icoolxue.com/icoolxue/res/img/favicon.png", "title":"爱酷学习网" },
@@ -101,7 +103,7 @@
 		{ "name":"酷勤网PHP5在线手册", "url":"http://www.kuqin.com/php5_doc/", "icon":"http://www.kuqin.com/favicon.ico", "title":"PHP5在线手册--酷勤网" },
 		{ "name":"酷勤网计算机在线教程", "url":"http://www.kuqin.com/docs/", "icon":"http://www.kuqin.com/favicon.ico", "title":"计算机在线教程--酷勤网" },
 		{ "name":"联图网二维码在线生成", "url":"http://www.liantu.com/", "icon":"http://www.liantu.com/favicon.ico", "title":"联图网--二维码在线生成" },
-		{ "name":"Sebug漏洞库", "url":"http://sebug.net/", "icon":"http://sebug.net/favicon.ico", "title":"Sebug漏洞库" },
+		{ "name":"TeamBition", "url":"https://www.teambition.com/", "icon":"../assets/imgs/favicons/teambition.png", "title":"最好用的团队协作平台" },
 		{ "name":"多说评论系统", "url":"http://dev.duoshuo.com/", "icon":"http://dev.duoshuo.com/favicon.ico", "title":"多说评论系统" },
 		{ "name":"友言评论系统", "url":"http://www.uyan.cc/", "icon":"http://www.uyan.cc/favicon.ico", "title":"友言评论系统" },
 		{ "name":"Python官方资料库", "url":"http://www.python.org/ftp/python/", "icon":"https://www.python.org/static/favicon.ico", "title":"Python官方资料库" },
@@ -128,7 +130,7 @@
 		{ "name":"开源中国", "url":"http://www.oschina.net/", "icon":"http://www.oschina.net//favicon.ico", "title":"开源中国" },
 		{ "name":"IMCN", "url":"http://imcn.me/", "icon":"http://imcn.me/favicon.ico", "title":"IMCN" },
 		{ "name":"Coding", "url":"https://coding.net/", "icon":"https://coding.net/favicon.ico", "title":"Coding" },
-		{ "name":"Gitcafe", "url":"https://gitcafe.com/", "icon":"https://gitcafe.com/favicon.ico", "title":"Gitcafe" },
+		{ "name":"Bitbucket", "url":"https://bitbucket.org/", "icon":"https://bitbucket.org/favicon.ico", "title":"The Git solution for professional teams" },
 		{ "name":"SourceForge.net", "url":"http://www.sourceforge.net", "icon":"http://www.sourceforge.net/favicon.ico", "title":"SourceForge.net" },
 		{ "name":"GoogleCode.com", "url":"https://developers.google.com", "icon":"../assets/imgs/favicons/google.ico", "title":"GoogleCode.com" },
 		{ "name":"ChinaUnix", "url":"http://www.chinaunix.net/", "icon":"http://www.chinaunix.net/favicon.ico", "title":"ChinaUnix" },
@@ -178,9 +180,7 @@
 		{ "name":"博客文章收藏网", "url":"http://programgo.com/", "icon":"../assets/imgs/default.ico", "title":"博客文章收藏网" },
 		{ "name":"爱密码", "url":"http://521xunlei.com/", "icon":"http://521xunlei.com/favicon.ico", "title":"迅雷会员账号分享平台" },
 		{ "name":"迅雷粉", "url":"http://xlfans.com/", "icon":"../assets/imgs/default.ico", "title":"专业的迅雷会员账号分享" },
-		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" },
-		{ "name":"全职招聘网", "url":"http://www.quanzhi.com/", "icon":"http://www.quanzhi.com/favicon.ico", "title":"全职招聘网" },
-		{ "name":"瞬聘网", "url":"http://www.shunpin.com/", "icon":"http://www.shunpin.com/favicon.ico", "title":"软件工程师自动化招聘" }	
+		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" }
 	],
 
 	"flink": [
@@ -194,7 +194,7 @@
 		{ "name":"YOUNG.ZERO", "url":"http://www.ydianz.com/", "icon":"http://www.ydianz.com/wp-content/uploads/2016/01/2.png", "title":"YOUNG.ZERO" },
 		{ "name":"WEB骇客", "url":"http://www.webhek.com/", "icon":"http://www.webhek.com/favicon.ico", "title":"WEB骇客" },
 		{ "name":"侠客创想", "url":"http://www.qaulau.com/", "icon":"http://www.qaulau.com/favicon.ico", "title":"记录成长的点滴,分享互联网的那些事" },
-		{ "name":"代码珠玑", "url":"http://www.codepearl.com/", "icon":"http://www.codepearl.com/favicon.ico", "title":"做您最好的代码分享平台" },
+		{ "name":"代码珠玑", "url":"http://www.codepearl.com/", "icon":"../assets/imgs/default.ico", "title":"做您最好的代码分享平台" },
 		{ "name":"isWTF's blog", "url":"http://blog.iswtf.com/", "icon":"http://blog.iswtf.com/favicon.ico", "title":"isWTF's blog" },
 		{ "name":"人世间", "url":"http://www.jianshu.com/users/5qrPPM/latest_articles", "icon":"http://www.jianshu.com/favicon.ico", "title":"人世间-简书" }
 	],

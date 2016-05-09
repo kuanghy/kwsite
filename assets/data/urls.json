@@ -208,7 +208,7 @@
 		{ "name":"5sing", "url":"http://5sing.kugou.com/", "icon":"http://5sing.kugou.com/favicon.ico", "title":"5sing中国原创音乐基地" },
 		{ "name":"百度乐播", "url":"http://lebo.baidu.com/", "icon":"http://lebo.baidu.com/static/image/icon/favicon.ico", "title":"百度乐播" },
 		{ "name":"咪咕音乐", "url":"http://music.migu.cn/", "icon":"http://music.migu.cn/favicon.ico", "title":"咪咕音乐" },
-		{ "name":"Calm.com", "url": "https://www.calm.com/", "icon": "", "title":"Calm" },
+		{ "name":"Calm.com", "url": "https://www.calm.com/", "icon": "https://www.calm.com/images/favicon.png", "title":"Calm" },
 		{ "name":"GetRelaxed.com", "url": "http://www.getrelaxed.com/", "icon": "http://www.getrelaxed.com/favicon.ico", "title":"Reduce Your Stress" },
 		{ "name":"Do Nothing for 2 Minutes", "url": "http://www.donothingfor2minutes.com/", "icon": "http://www.donothingfor2minutes.com/icon.ico", "title":"Do Nothing for 2 Minutes" },
 		{ "name":"LoungeV Studio", "url": "http://www.loungev.com/", "icon": "http://www.loungev.com/reviews/thumbnails/favicon.ico", "title":"Relaxing Nature Videos : Full HD and 4K UHD Films" },

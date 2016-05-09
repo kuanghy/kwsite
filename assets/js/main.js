@@ -11,7 +11,7 @@ categorys = {
     resources : "资源搜索",
     collection : "收藏备份",
     flink : "友情链接",
-    music : "遇见音乐",
+    music : "音乐放松",
     translation : "在线翻译",
     cloudisk : "网络云盘",
     aboutme : "关于我的"

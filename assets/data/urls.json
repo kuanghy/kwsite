@@ -155,14 +155,14 @@
 	],
 
 	"resources": [
-		{ "name":"狗狗搜搜", "url":"http://www.gougousoso.com/", "icon":"http://www.gougousoso.com/favicon.ico", "title":"狗狗搜搜" },
-		{ "name":"StackOverflow", "url":"http://stackoverflow.com/", "icon":"http://stackoverflow.com/favicon.ico", "title":"StackOverflow" },
+		{ "name":"维基百科", "url":"https://zh.wikipedia.org/", "icon":"https://zh.wikipedia.org/favicon.ico", "title":"自由的百科全书" },
+		{ "name":"WikiHow中文", "url":"http://zh.wikihow.com", "icon":"http://zh.wikihow.com/favicon.ico", "title":"您可以编辑的指导手册" },
+		{ "name":"搜狗微信搜索", "url":"http://weixin.sogou.com", "icon":"http://weixin.sogou.com/favicon.ico", "title":"订阅号及文章内容独家收录" },
 		{ "name":"知乎", "url":"http://www.zhihu.com/", "icon":"http://www.zhihu.com/favicon.ico", "title":"知乎问答平台" },
 		{ "name":"Pkgs.org", "url":"http://pkgs.org/", "icon":"http://pkgs.org/static/images/favicon.ico", "title":"Linux 软件包搜索平台" },
-		{ "name":"RPM Search", "url":"http://rpm.pbone.net/", "icon":"http://rpm.pbone.net/favicon.ico", "title":"RPM 软件包搜索" },
-		{ "name":"LFD", "url":"http://www.lfd.uci.edu/", "icon":"http://www.lfd.uci.edu/favicon.ico", "title":"LFD" },
-		{ "name":"GoogleForChina", "url":"http://www.googleforchina.com/", "icon":"../assets/imgs/default.ico", "title":"GoogleForChina" },
-		{ "name":"Nullege.com", "url":"http://nullege.com/", "icon":"http://nullege.com/favicon.ico", "title":"Python 源码搜索引擎" }
+		{ "name":"RPM Search", "url":"http://rpm.pbone.net/", "icon":"http://rpm.pbone.net/favicon.ico", "title":"RPM 软件包搜索" },		
+		{ "name":"Nullege.com", "url":"http://nullege.com/", "icon":"http://nullege.com/favicon.ico", "title":"Python 源码搜索引擎" },
+		{ "name":"LFD", "url":"http://www.lfd.uci.edu/", "icon":"http://www.lfd.uci.edu/favicon.ico", "title":"LFD" }
 	],
 
 	"collection": [
@@ -207,7 +207,12 @@
 		{ "name":"酷狗音乐", "url":"http://www.kugou.com/", "icon":"http://www.kugou.com/favicon.ico", "title":"酷狗音乐" },
 		{ "name":"5sing", "url":"http://5sing.kugou.com/", "icon":"http://5sing.kugou.com/favicon.ico", "title":"5sing中国原创音乐基地" },
 		{ "name":"百度乐播", "url":"http://lebo.baidu.com/", "icon":"http://lebo.baidu.com/static/image/icon/favicon.ico", "title":"百度乐播" },
-		{ "name":"咪咕音乐", "url":"http://music.migu.cn/", "icon":"http://music.migu.cn/favicon.ico", "title":"咪咕音乐" }
+		{ "name":"咪咕音乐", "url":"http://music.migu.cn/", "icon":"http://music.migu.cn/favicon.ico", "title":"咪咕音乐" },
+		{ "name":"Calm.com", "url": "https://www.calm.com/", "icon": "", "title":"Calm" },
+		{ "name":"GetRelaxed.com", "url": "http://www.getrelaxed.com/", "icon": "http://www.getrelaxed.com/favicon.ico", "title":"Reduce Your Stress" },
+		{ "name":"Do Nothing for 2 Minutes", "url": "http://www.donothingfor2minutes.com/", "icon": "http://www.donothingfor2minutes.com/icon.ico", "title":"Do Nothing for 2 Minutes" },
+		{ "name":"LoungeV Studio", "url": "http://www.loungev.com/", "icon": "http://www.loungev.com/reviews/thumbnails/favicon.ico", "title":"Relaxing Nature Videos : Full HD and 4K UHD Films" },
+		{ "name":"A Soft Murmur", "url": "http://asoftmurmur.com/", "icon": "http://asoftmurmur.com/favicon.ico", "title":"A Soft Murmur" }
 	],
 
 	"translation": [

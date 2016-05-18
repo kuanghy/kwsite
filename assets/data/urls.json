@@ -89,6 +89,7 @@
 		{ "name":"在线颜色生成器", "url":"http://rgb.pin5i.com/", "icon":"http://rgb.pin5i.com/favicon.ico", "title":"在线颜色生成器" },
 		{ "name":"美图秀秀网页版", "url":"http://xiuxiu.web.meitu.com/", "icon":"http://xiuxiu.web.meitu.com/favicon.ico", "title":"美图秀秀网页版" },
 		{ "name":"Linux命令大全", "url":"http://man.linuxde.net/", "icon":"http://man.linuxde.net/favicon.ico", "title":"Linux命令大全" },
+		{ "name":"Pythontutor.com", "url":"http://pythontutor.com/", "icon":"http://pythontutor.com/favicon.ico", "title":"Online Python Tutor" },
 		{ "name":"Ideone.com", "url":"http://ideone.com/", "icon":"http://ideone.com/favicon.ico", "title":"Ideone.com" },
 		{ "name":"Codepad.org", "url":"http://codepad.org/", "icon":"../assets/imgs/default.ico", "title":"Codepad.org" },
 		{ "name":"设计师网址导航", "url":"http://hao.uisdc.com/", "icon":"http://hao.uisdc.com/favicon.ico", "title":"设计师网址导航" },

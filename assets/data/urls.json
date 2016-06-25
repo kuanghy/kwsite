@@ -72,6 +72,7 @@
 		{ "name":"玩蛇网", "url":"http://www.iplaypython.com/", "icon":"http://www.iplaypython.com/favicon.ico", "title":"玩蛇网" },
 		{ "name":"老王Python", "url":"http://www.cnpythoner.com/", "icon":"../assets/imgs/default.ico", "title":"老王Python提供简单实用的Python教程" },
 		{ "name":"Python 中文学习大本营", "url":"http://www.pythondoc.com/", "icon":"http://www.pythondoc.com/img/favicon.png", "title":"Python 中文学习大本营" },
+		{ "name":"Python 部落", "url":"http://python.freelycode.com/", "icon":"http://python.freelycode.com/static/img/favicon.ico", "title":"Python 部落" },
 		{ "name":"Django基础教程", "url":"http://www.ziqiangxuetang.com/django/django-tutorial.html", "icon":"http://www.ziqiangxuetang.com/favicon.ico", "title":"Django基础教程" },
 		{ "name":"Django Step by Step", "url":"http://www.lhelper.org/dev/django_step_by_step/newtest/doc/", "icon":"../assets/imgs/default.ico", "title":"Django Step by Step" },
 		{ "name":"Django 中国社区", "url":"http://www.django-china.cn/", "icon":"http://www.django-china.cn/static/img/favicon.ico", "title":"Django中国社区，专注于Django中国技术发展的社区" },

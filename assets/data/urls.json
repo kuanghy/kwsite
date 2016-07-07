@@ -123,6 +123,9 @@
 		{ "name":"jQuery 在线手册", "url":"http://hemin.cn/jq/", "icon":"http://hemin.cn/jq/img/favicon.ico", "title":"jQuery API 中文在线参考手册"},
 		{ "name":"JavaScript 标准参考教程", "url":"http://javascript.ruanyifeng.com/", "icon":"http://javascript.ruanyifeng.com/favicon.ico", "title":"JavaScript 标准参考教程"},
 		{ "name":"CSS参考手册", "url":"http://css.doyoe.com/", "icon":"http://css.doyoe.com/doyoe.ico", "title":"CSS参考手册"},
+		{ "name":"Numpy.ndarray", "url":"http://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html", "icon":"../assets/imgs/favicons/python.ico", "title":"Numpy.ndarray 参考文档"},
+		{ "name":"Pandas.DataFram", "url":"http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html", "icon":"../assets/imgs/favicons/python.ico", "title":"Pandas.DataFram 参考文档"},
+		{ "name":"Pandas.Series 参考文档", "url":"http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html", "icon":"../assets/imgs/favicons/python.ico", "title":"Pandas.Series 参考文档"},
 		{ "name":"Requests 中文文档", "url":"http://cn.python-requests.org/zh_CN/latest/", "icon":"http://cn.python-requests.org/favicon.ico", "title":"Requests: HTTP for Humans"}
 
 	],

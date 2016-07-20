@@ -107,7 +107,7 @@
 		{ "name":"酷勤网计算机在线教程", "url":"http://www.kuqin.com/docs/", "icon":"http://www.kuqin.com/favicon.ico", "title":"计算机在线教程--酷勤网" },
 		{ "name":"联图网二维码在线生成", "url":"http://www.liantu.com/", "icon":"http://www.liantu.com/favicon.ico", "title":"联图网--二维码在线生成" },
 		{ "name":"TeamBition", "url":"https://www.teambition.com/", "icon":"../assets/imgs/favicons/teambition.png", "title":"最好用的团队协作平台" },
-		{ "name":"多说评论系统", "url":"http://dev.duoshuo.com/", "icon":"http://dev.duoshuo.com/favicon.ico", "title":"多说评论系统" },
+		{ "name":"多说评论系统", "url":"http://duoshuo.com/", "icon":"http://static.duoshuo.com/favicon.ico", "title":"多说评论系统" },
 		{ "name":"友言评论系统", "url":"http://www.uyan.cc/", "icon":"http://www.uyan.cc/favicon.ico", "title":"友言评论系统" },
 		{ "name":"Python官方资料库", "url":"http://www.python.org/ftp/python/", "icon":"https://www.python.org/static/favicon.ico", "title":"Python官方资料库" },
 		{ "name":"Python官方文档中文站", "url":"http://python.usyiyi.cn/", "icon":"https://www.python.org/static/favicon.ico", "title":"Python官方文档中文站" },

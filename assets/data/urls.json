@@ -127,7 +127,8 @@
 		{ "name":"Numpy.ndarray", "url":"http://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html", "icon":"../assets/imgs/favicons/python.ico", "title":"Numpy.ndarray 参考文档"},
 		{ "name":"Pandas.DataFram", "url":"http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html", "icon":"../assets/imgs/favicons/python.ico", "title":"Pandas.DataFram 参考文档"},
 		{ "name":"Pandas.Series 参考文档", "url":"http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html", "icon":"../assets/imgs/favicons/python.ico", "title":"Pandas.Series 参考文档"},
-		{ "name":"Requests 中文文档", "url":"http://cn.python-requests.org/zh_CN/latest/", "icon":"http://cn.python-requests.org/favicon.ico", "title":"Requests: HTTP for Humans"}
+		{ "name":"Requests 中文文档", "url":"http://cn.python-requests.org/zh_CN/latest/", "icon":"http://cn.python-requests.org/favicon.ico", "title":"Requests: HTTP for Humans"},
+		{ "name":"Fabric 中文文档", "url":"https://fabric-chs.readthedocs.io/zh_CN/chs/", "icon":"https://fabric-chs.readthedocs.io/favicon.ico", "title":"Fabric 中文文档"}
 
 	],
 

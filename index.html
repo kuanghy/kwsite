@@ -47,8 +47,8 @@
             <p style="height: 24px; line-height: 24px; margin: 15px 0;">
                 <img style="vertical-align: bottom; margin-right: 10px;" src="assets/imgs/map_24px.png"/> 北京海淀 &middot; 中国
             </p>
-            <p>
-                为人者，大爱，大道，大学；为学者，致知，致用，致远.
+            <p id='iciba_ds'>
+                <!-- 为人者，大爱，大道，大学；为学者，致知，致用，致远. -->
             </p>
         </div>
         <div style="margin-bottom:60px;"></div>
@@ -76,6 +76,23 @@
 <script type="text/javascript">
     var cur_date = new Date();
     document.getElementById("cur_year").innerHTML = cur_date.getFullYear();
+
+    function showIcibaDS(ds_data)
+    {
+        // show daily sentence
+        content = ds_data.content;
+        note = ds_data.note;
+        ds_p = document.getElementById("iciba_ds")
+        var content_span = document.createElement('span');
+        var note_span = document.createElement('span');
+        var br = document.createElement('br')
+        content_span.innerHTML = content
+        note_span.innerHTML = note
+        ds_p.appendChild(content_span);
+        ds_p.appendChild(br);
+        ds_p.appendChild(note_span);
+    }
 </script>
+<script type="text/javascript" src="http://open.iciba.com/dsapi/?callback=showIcibaDS"></script>
 </body>
 </html>

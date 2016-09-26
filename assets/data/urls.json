@@ -32,7 +32,7 @@
 		{ "name":"有道云笔记", "url":"http://note.youdao.com/", "icon":"http://note.youdao.com/favicon.ico", "title":"有道云笔记" },
 		{ "name":"拉勾网", "url":"http://www.lagou.com/", "icon":"http://www.lagou.com/favicon.ico", "title":"拉勾网" },
 		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" },
-		{ "name":"百度站长平台", "url":"http://zhanzhang.baidu.com/crawltools/index", "icon":"https://www.baidu.com/favicon.ico", "title":"百度站长平台"}
+		{ "name":"百度站长平台", "url":"http://zhanzhang.baidu.com/crawltools/index", "icon":"https://www.baidu.com/favicon.ico", "title":"百度站长平台"},
 		{ "name":"马克飞象", "url":"https://maxiang.io/", "icon":"https://maxiang.io/favicon.ico", "title":"马克飞象" },
 		{ "name":"小书匠", "url":"http://markdown.xiaoshujiang.com/", "icon":"http://markdown.xiaoshujiang.com/favicon.ico", "title":"小书匠" }
 	],

@@ -32,6 +32,7 @@
 		{ "name":"有道云笔记", "url":"http://note.youdao.com/", "icon":"http://note.youdao.com/favicon.ico", "title":"有道云笔记" },
 		{ "name":"拉勾网", "url":"http://www.lagou.com/", "icon":"http://www.lagou.com/favicon.ico", "title":"拉勾网" },
 		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" },
+		{ "name":"百度站长平台", "url":"http://zhanzhang.baidu.com/crawltools/index", "icon":"https://www.baidu.com/favicon.ico", "title":"百度站长平台"}
 		{ "name":"马克飞象", "url":"https://maxiang.io/", "icon":"https://maxiang.io/favicon.ico", "title":"马克飞象" },
 		{ "name":"小书匠", "url":"http://markdown.xiaoshujiang.com/", "icon":"http://markdown.xiaoshujiang.com/favicon.ico", "title":"小书匠" }
 	],
@@ -195,6 +196,7 @@
 		{ "name":"JoinQuant", "url":"https://www.joinquant.com/", "icon":"https://www.joinquant.com/favicon.ico", "title":"聚宽量化交易平台" },
 		{ "name":"NaRay", "url":"http://www.cnblogs.com/naray/", "icon":"http://www.cnblogs.com/favicon.ico", "title":"NaRay" },
 		{ "name":"HJS Blog", "url":"http://www.hjshust.cn/", "icon":"http://www.hjshust.cn/favicon.ico", "title":"HJS Blog" },
+		{ "name":"颜亚华的博客", "url":"http://yanyahua.com/", "icon":"../assets/imgs/default.ico", "title":"颜亚华的博客" },
 		{ "name":"Yonsm.NET", "url":"http://yonsm.net/", "icon":"http://yonsm.net/favicon.ico", "title":"Yonsm.NET" },
 		{ "name":"飘过的小牛", "url":"http://github.thinkingbar.com/", "icon":"http://github.thinkingbar.com/favicon.ico", "title":"飘过的小牛" },
 		{ "name":"王垠的博客", "url":"http://www.yinwang.org/", "icon":"http://www.yinwang.org/images/Yc.jpg", "title":"王垠的博客" },

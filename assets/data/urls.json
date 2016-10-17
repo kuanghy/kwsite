@@ -2,7 +2,7 @@
 	"se": [
 		{ "name":"百度搜索", "url":"https://www.baidu.com/", "icon":"https://www.baidu.com/favicon.ico", "title":"百度搜索" },
 		{ "name":"Google.com", "url":"https://www.google.com/ncr", "icon":"../assets/imgs/favicons/google.ico", "title":"谷歌搜索" },
-		{ "name":"Googto.com", "url":"http://www.googto.com/", "icon":"http://www.googto.com/favicon.ico", "title":"谷歌搜索镜像" },
+		{ "name":"DuckDuckGo", "url":"https://duckduckgo.com/", "icon":"https://duckduckgo.com/favicon.ico", "title":"DuckDuckGo" },
 		{ "name":"360好搜", "url":"http://www.haosou.com/", "icon":"http://www.haosou.com/favicon.ico", "title":"360好搜" },
 		{ "name":"搜狗搜索", "url":"http://www.sogou.com/", "icon":"http://www.sogou.com/favicon.ico", "title":"搜狗搜索" },
 		{ "name":"YAHOO中国雅虎", "url":"http://sg.search.yahoo.com/", "icon":"http://sg.search.yahoo.com/favicon.ico", "title":"YAHOO 中国雅虎" },

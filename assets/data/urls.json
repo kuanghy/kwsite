@@ -208,6 +208,8 @@
 		{ "name":"侠客创想", "url":"http://www.qaulau.com/", "icon":"http://www.qaulau.com/favicon.ico", "title":"记录成长的点滴,分享互联网的那些事" },
 		{ "name":"代码珠玑", "url":"http://www.codepearl.com/", "icon":"../assets/imgs/default.ico", "title":"做您最好的代码分享平台" },
 		{ "name":"isWTF's blog", "url":"http://blog.iswtf.com/", "icon":"http://blog.iswtf.com/favicon.ico", "title":"isWTF's blog" },
+		{ "name":"wklken's blog", "url":"http://www.wklken.me/", "icon":"http://www.wklken.me/favicon.ico", "title":"wklken's blog" },
+		{ "name":"PyZh", "url":"http://pyzh.readthedocs.io/", "icon":"http://pyzh.readthedocs.io/favicon.ico", "title":"PyZh -- 一起写Python文章，一起看Python文章" },
 		{ "name":"人世间", "url":"http://www.jianshu.com/users/5qrPPM/latest_articles", "icon":"http://www.jianshu.com/favicon.ico", "title":"人世间-简书" }
 	],
 

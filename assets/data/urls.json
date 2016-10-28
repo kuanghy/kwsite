@@ -131,7 +131,8 @@
 		{ "name":"Pandas.Series 参考文档", "url":"http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html", "icon":"../assets/imgs/favicons/python.ico", "title":"Pandas.Series 参考文档"},
 		{ "name":"Requests 中文文档", "url":"http://cn.python-requests.org/zh_CN/latest/", "icon":"http://cn.python-requests.org/favicon.ico", "title":"Requests: HTTP for Humans"},
 		{ "name":"Fabric 中文文档", "url":"https://fabric-chs.readthedocs.io/zh_CN/chs/", "icon":"https://fabric-chs.readthedocs.io/favicon.ico", "title":"Fabric 中文文档"},
-		{ "name":"uWSGI 中文文档", "url":"http://uwsgi-docs-cn.readthedocs.io/zh_CN/latest/index.html", "icon":"http://uwsgi-docs-cn.readthedocs.io/favicon.ico", "title":"The uWSGI project"}
+		{ "name":"uWSGI 中文文档", "url":"http://uwsgi-docs-cn.readthedocs.io/zh_CN/latest/index.html", "icon":"http://uwsgi-docs-cn.readthedocs.io/favicon.ico", "title":"The uWSGI project"},
+		{ "name":"手册网", "url":"http://www.shoucewang.com/", "icon":"http://www.shoucewang.com/favicon.ico", "title":"手册网"}
 
 	],
 
@@ -181,6 +182,7 @@
 		{ "name":"Google 镜像站搜集", "url":"https://github.com/sxyx2008/DevArticles/issues/99", "icon":"../assets/imgs/default.ico", "title":"Google 镜像站搜集" },
 		{ "name":"搜索引擎使用指南", "url":"https://www.zhihu.com/question/20161362", "icon":"https://www.zhihu.com/favicon.ico", "title":"如何用好 Google 等搜索引擎" },
 		{ "name":"古诗文网", "url":"http://www.gushiwen.org/", "icon":"http://www.gushiwen.org/favicon.ico", "title":"古诗文网" },
+		{ "name":"古文诗词鉴赏", "url":"http://www.hx5q.cn/", "icon":"http://www.hx5q.cn/favicon.ico", "title":"古文诗词鉴赏" },
 		{ "name":"轩枫阁", "url":"http://www.xuanfengge.com/", "icon":"http://www.xuanfengge.com/wp-content/themes/lee2.0/favicon.ico", "title":"轩枫阁" },
 		{ "name":"前端观察", "url":"http://www.qianduan.net/", "icon":"http://www.qianduan.net/favicon.ico", "title":"前端观察" },
 		{ "name":"DzzOffice", "url":"http://www.dzzoffice.com/", "icon":"http://www.dzzoffice.com/favicon.ico", "title":"大桌子云办公平台" },

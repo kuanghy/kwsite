@@ -70,7 +70,7 @@
 		{ "name":"Python 部落", "url":"http://python.freelycode.com/", "icon":"http://python.freelycode.com/static/img/favicon.ico", "title":"Python 部落" },
 		{ "name":"Django基础教程", "url":"http://www.ziqiangxuetang.com/django/django-tutorial.html", "icon":"http://www.ziqiangxuetang.com/favicon.ico", "title":"Django基础教程" },
 		{ "name":"Django Step by Step", "url":"http://www.lhelper.org/dev/django_step_by_step/newtest/doc/", "icon":"../assets/imgs/default.ico", "title":"Django Step by Step" },
-		{ "name":"Django 中国社区", "url":"http://www.django-china.cn/", "icon":"http://www.django-china.cn/static/img/favicon.ico", "title":"Django中国社区，专注于Django中国技术发展的社区" },
+		{ "name":"Python中国社区", "url":"http://www.python88.com/", "icon":"http://www.python88.com/favicon.ico", "title":"Python中国社区 - 专注于Python中国技术发展的社区" },
 		{ "name":"djangochina", "url":"http://www.djangochina.cn/", "icon":"http://www.djangochina.cn/favicon.ico", "title":"Django中国 | Django中文社区" },
 		{ "name":"Flask 中文学习网", "url":"http://flask123.sinaapp.com/", "icon":"http://flask123.sinaapp.com/favicon.ico", "title":"分享Flask教程、扩展插件、编程技巧" },
 		{ "name":"编程派", "url":"http://www.codingpy.com/", "icon":"http://www.codingpy.com/favicon.ico", "title":"编程派(codingpy)" },

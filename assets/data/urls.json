@@ -9,9 +9,7 @@
 		{ "name":"Ask.com", "url":"http://www.ask.com", "icon":"http://www.ask.com/favicon.ico", "title":"Ask.com" },
 		{ "name":"Webcrawler.com", "url":"http://www.webcrawler.com", "icon":"http://www.webcrawler.com/favicon.ico", "title":"Webcrawler.com" },
 		{ "name":"Bing.com", "url":"http://www.bing.com/?FORM=HPCNEN", "icon":"http://cn.bing.com/favicon.ico", "title":"Bing.com" },
-		{ "name":"Lycos.com", "url":"http://www.lycos.com/", "icon":"http://ly.lygo.com/ly/lycos/3/img/favicon.ico", "title":"Lycos.com" },
-		{ "name":"hao123网址导航", "url":"http://www.hao123.com", "icon":"http://www.hao123.com/favicon.ico", "title":"hao123网址导航" },
-		{ "name":"程序员导航--pg265", "url":"http://www.pg265.com/", "icon":"http://www.pg265.com/favicon.ico", "title":"程序员导航--pg265" }
+		{ "name":"Lycos.com", "url":"http://www.lycos.com/", "icon":"http://ly.lygo.com/ly/lycos/3/img/favicon.ico", "title":"Lycos.com" }
 	],
 
 	"usual": [
@@ -31,10 +29,7 @@
 		{ "name":"QQ邮箱", "url":"http://mail.qq.com/", "icon":"http://mail.qq.com/favicon.ico", "title":"QQ邮箱" },
 		{ "name":"有道云笔记", "url":"http://note.youdao.com/", "icon":"http://note.youdao.com/favicon.ico", "title":"有道云笔记" },
 		{ "name":"拉勾网", "url":"http://www.lagou.com/", "icon":"http://www.lagou.com/favicon.ico", "title":"拉勾网" },
-		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" },
-		{ "name":"百度站长平台", "url":"http://zhanzhang.baidu.com/dashboard/index", "icon":"https://www.baidu.com/favicon.ico", "title":"百度站长平台"},
-		{ "name":"马克飞象", "url":"https://maxiang.io/", "icon":"https://maxiang.io/favicon.ico", "title":"马克飞象" },
-		{ "name":"小书匠", "url":"http://markdown.xiaoshujiang.com/", "icon":"http://markdown.xiaoshujiang.com/favicon.ico", "title":"小书匠" }
+		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" }
 	],
 
 	"technology": [
@@ -50,7 +45,6 @@
 		{ "name":"西晋学院", "url":"http://www.simplexue.com/", "icon":"http://www.simplexue.com/favicon.ico", "title":"西晋学院" },
 		{ "name":"慕课网", "url":"http://www.imooc.com/", "icon":"http://www.imooc.com/favicon.ico", "title":"慕课网" },
 		{ "name":"极课学院", "url":"http://www.jikexueyuan.com/", "icon":"http://www.jikexueyuan.com/favicon.ico", "title":"极课学院" },
-		{ "name":"SQLite中文站", "url":"http://www.sqlite.com.cn/", "icon":"http://www.sqlite.org/favicon.ico", "title":"SQLite中文站" },
 		{ "name":"SQLite官方网站", "url":"http://www.sqlite.org/", "icon":"http://www.sqlite.org/favicon.ico", "title":"SQLite官方网站" },
 		{ "name":"SQL语句教程", "url":"http://www.1keydata.com/cn/sql/", "icon":"http://www.1keydata.com/favicon.ico", "title":"SQL语句教程--1keydata" },
 		{ "name":"PHP100", "url":"http://www.php100.com/", "icon":"http://www.php100.com/favicon.ico", "title":"PHP100" },
@@ -92,6 +86,9 @@
 		{ "name":"OSChina在线工具", "url":"http://www.docker.org.cn/", "icon":"http://tool.oschina.net/favicon.ico", "title":"在线工具--OSChina" },
 		{ "name":"在线工具--做最专业的工具网站", "url":"http://tool.lu/", "icon":"http://tool.lu/favicon.ico", "title":"在线工具--做最专业的工具网站" },	
 		{ "name":"Linux命令大全", "url":"http://man.linuxde.net/", "icon":"http://man.linuxde.net/favicon.ico", "title":"Linux命令大全" },
+		{ "name":"百度站长平台", "url":"http://zhanzhang.baidu.com/dashboard/index", "icon":"https://www.baidu.com/favicon.ico", "title":"百度站长平台"},
+		{ "name":"马克飞象", "url":"https://maxiang.io/", "icon":"https://maxiang.io/favicon.ico", "title":"马克飞象" },
+		{ "name":"小书匠", "url":"http://markdown.xiaoshujiang.com/", "icon":"http://markdown.xiaoshujiang.com/favicon.ico", "title":"小书匠" },
 		{ "name":"Pythontutor.com", "url":"http://pythontutor.com/", "icon":"http://pythontutor.com/favicon.ico", "title":"Online Python Tutor" },
 		{ "name":"Ideone.com", "url":"http://ideone.com/", "icon":"http://ideone.com/favicon.ico", "title":"Ideone.com" },
 		{ "name":"Codepad.org", "url":"http://codepad.org/", "icon":"../assets/imgs/default.ico", "title":"Codepad.org" },
@@ -148,9 +145,8 @@
 		{ "name":"ChinaUnix", "url":"http://www.chinaunix.net/", "icon":"http://www.chinaunix.net/favicon.ico", "title":"ChinaUnix" },
 		{ "name":"Linux伊甸园", "url":"http://www.linuxeden.com/", "icon":"http://www.linuxeden.com/favicon.ico", "title":"Linux伊甸园" },
 		{ "name":"LinuxStory", "url":"http://www.linuxstory.org/", "icon":"http://www.linuxstory.org/favicon.ico", "title":"LinuxStory" },
-		{ "name":"OpenHub", "url":"http://code.openhub.net/", "icon":"http://code.openhub.net/favicon.ico", "title":"OpenHub" },
 		{ "name":"Ubuntuthemes", "url":"http://www.ubuntuthemes.org/", "icon":"http://www.ubuntuthemes.org/wp-content/uploads/favicon.ico", "title":"Ubuntuthemes" },
-		{ "name":"GNOME-LOOK", "url":"http://gnome-look.org/", "icon":"http://gnome-look.org/img/favicon-2-1.ico", "title":"gnome-look" },
+		{ "name":"GNOME-LOOK.ORG", "url":"https://www.gnome-look.org/", "icon":"../assets/imgs/favicons/gnome.ico", "title":"gnome-look" },
 		{ "name":"OMGUbuntu", "url":"http://www.omgubuntu.co.uk/", "icon":"http://www.omgubuntu.co.uk/wp-content/themes/omgunified-ubuntu/images/logo.png", "title":"omgubuntu" }
 	],
 
@@ -180,10 +176,8 @@
 	"collection": [
 		{ "name":"句子迷", "url":"http://www.juzimi.com/", "icon":"http://www.juzimi.com/favicon.ico", "title":"句子迷" },
 		{ "name":"Google 镜像站搜集", "url":"https://github.com/sxyx2008/DevArticles/issues/99", "icon":"../assets/imgs/default.ico", "title":"Google 镜像站搜集" },
-		{ "name":"搜索引擎使用指南", "url":"https://www.zhihu.com/question/20161362", "icon":"https://www.zhihu.com/favicon.ico", "title":"如何用好 Google 等搜索引擎" },
 		{ "name":"古诗文网", "url":"http://www.gushiwen.org/", "icon":"http://www.gushiwen.org/favicon.ico", "title":"古诗文网" },
 		{ "name":"古文诗词鉴赏", "url":"http://www.hx5q.cn/", "icon":"http://www.hx5q.cn/favicon.ico", "title":"古文诗词鉴赏" },
-		{ "name":"轩枫阁", "url":"http://www.xuanfengge.com/", "icon":"http://www.xuanfengge.com/wp-content/themes/lee2.0/favicon.ico", "title":"轩枫阁" },
 		{ "name":"前端观察", "url":"http://www.qianduan.net/", "icon":"http://www.qianduan.net/favicon.ico", "title":"前端观察" },
 		{ "name":"DzzOffice", "url":"http://www.dzzoffice.com/", "icon":"http://www.dzzoffice.com/favicon.ico", "title":"大桌子云办公平台" },
 		{ "name":"Helloweba", "url":"http://www.helloweba.com/", "icon":"http://www.helloweba.com/favicon.ico", "title":"Helloweba" },
@@ -191,9 +185,8 @@
 		{ "name":"CdPHP框架", "url":"http://www.cdvphp.com/", "icon":"../assets/imgs/default.ico", "title":"CdPHP框架" },
 		{ "name":"操作系统安全", "url":"http://blog.chinaunix.net/uid-26275986-id-4070559.html", "icon":"../assets/imgs/default.ico", "title":"操作系统安全--技术博客" },
 		{ "name":"博客文章收藏网", "url":"http://programgo.com/", "icon":"../assets/imgs/default.ico", "title":"博客文章收藏网" },
-		{ "name":"爱密码", "url":"http://521xunlei.com/", "icon":"http://521xunlei.com/favicon.ico", "title":"迅雷会员账号分享平台" },
-		{ "name":"迅雷粉", "url":"http://xlfans.com/", "icon":"../assets/imgs/default.ico", "title":"专业的迅雷会员账号分享" },
-		{ "name":"北京黑中介名单", "url":"http://www.heizhongjie.org/", "icon":"../assets/imgs/default.ico", "title":"北京黑中介名单" }
+		{ "name":"爱密码", "url":"http://521xunlei.com/", "icon":"../assets/imgs/default.ico", "title":"迅雷会员账号分享平台" },
+		{ "name":"迅雷粉", "url":"http://xlfans.com/", "icon":"../assets/imgs/default.ico", "title":"专业的迅雷会员账号分享" }
 	],
 
 	"flink": [

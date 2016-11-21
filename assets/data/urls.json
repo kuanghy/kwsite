@@ -27,6 +27,7 @@
 		{ "name":"优酷", "url":"http://www.youku.com/", "icon":"http://www.youku.com/favicon.ico", "title":"优酷" },
 		{ "name":"163邮箱", "url":"http://mail.163.com/", "icon":"http://mail.163.com/favicon.ico", "title":"163邮箱" },
 		{ "name":"QQ邮箱", "url":"http://mail.qq.com/", "icon":"http://mail.qq.com/favicon.ico", "title":"QQ邮箱" },
+		{ "name":"腾讯企业邮箱", "url":"http://exmail.qq.com/login", "icon":"http://exmail.qq.com/favicon.ico", "title":"腾讯企业邮箱登录" },
 		{ "name":"有道云笔记", "url":"http://note.youdao.com/", "icon":"http://note.youdao.com/favicon.ico", "title":"有道云笔记" },
 		{ "name":"拉勾网", "url":"http://www.lagou.com/", "icon":"http://www.lagou.com/favicon.ico", "title":"拉勾网" },
 		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" }

@@ -130,7 +130,7 @@
 		{ "name":"Pandas.Series 参考文档", "url":"http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html", "icon":"../assets/imgs/favicons/python.ico", "title":"Pandas.Series 参考文档"},
 		{ "name":"Requests 中文文档", "url":"http://cn.python-requests.org/zh_CN/latest/", "icon":"http://cn.python-requests.org/favicon.ico", "title":"Requests: HTTP for Humans"},
 		{ "name":"Fabric 中文文档", "url":"https://fabric-chs.readthedocs.io/zh_CN/chs/", "icon":"https://fabric-chs.readthedocs.io/favicon.ico", "title":"Fabric 中文文档"},
-		{ "name":"uWSGI 中文文档", "url":"http://uwsgi-docs-cn.readthedocs.io/zh_CN/latest/index.html", "icon":"http://uwsgi-docs-cn.readthedocs.io/favicon.ico", "title":"The uWSGI project"},
+		{ "name":"uWSGI 中文文档", "url":"http://uwsgi-docs-zh.readthedocs.io/", "icon":"http://uwsgi-docs-zh.readthedocs.io/favicon.ico", "title":"uWSGI项目 - uWSGI文档"},
 		{ "name":"手册网", "url":"http://www.shoucewang.com/", "icon":"http://www.shoucewang.com/favicon.ico", "title":"手册网"}
 
 	],

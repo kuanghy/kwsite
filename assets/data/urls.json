@@ -28,7 +28,7 @@
 		{ "name":"163邮箱", "url":"http://mail.163.com/", "icon":"http://mail.163.com/favicon.ico", "title":"163邮箱" },
 		{ "name":"QQ邮箱", "url":"http://mail.qq.com/", "icon":"http://mail.qq.com/favicon.ico", "title":"QQ邮箱" },
 		{ "name":"腾讯企业邮箱", "url":"http://exmail.qq.com/login", "icon":"http://exmail.qq.com/favicon.ico", "title":"腾讯企业邮箱登录" },
-		{ "name":"有道云笔记", "url":"http://note.youdao.com/", "icon":"http://note.youdao.com/favicon.ico", "title":"有道云笔记" },
+		{ "name":"知乎", "url":"http://www.zhihu.com/", "icon":"http://www.zhihu.com/favicon.ico", "title":"知乎问答平台" },
 		{ "name":"拉勾网", "url":"http://www.lagou.com/", "icon":"http://www.lagou.com/favicon.ico", "title":"拉勾网" },
 		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" },
 		{ "name":"阿里云", "url":"https://www.aliyun.com/", "icon":"https://www.aliyun.com/favicon.ico", "title":"阿里云" }
@@ -131,7 +131,8 @@
 		{ "name":"Requests 中文文档", "url":"http://cn.python-requests.org/zh_CN/latest/", "icon":"http://cn.python-requests.org/favicon.ico", "title":"Requests: HTTP for Humans"},
 		{ "name":"Fabric 中文文档", "url":"https://fabric-chs.readthedocs.io/zh_CN/chs/", "icon":"https://fabric-chs.readthedocs.io/favicon.ico", "title":"Fabric 中文文档"},
 		{ "name":"uWSGI 中文文档", "url":"http://uwsgi-docs-zh.readthedocs.io/", "icon":"http://uwsgi-docs-zh.readthedocs.io/favicon.ico", "title":"uWSGI项目 - uWSGI文档"},
-		{ "name":"手册网", "url":"http://www.shoucewang.com/", "icon":"http://www.shoucewang.com/favicon.ico", "title":"手册网"}
+		{ "name":"手册网", "url":"http://www.shoucewang.com/", "icon":"http://www.shoucewang.com/favicon.ico", "title":"手册网"},
+		{ "name":"命令参考(SS64)", "url":"http://ss64.com/", "icon":"http://ss64.com/favicon.ico", "title":"Command line reference – Web, Database and OS scripting."}
 
 	],
 
@@ -167,7 +168,6 @@
 		{ "name":"维基百科", "url":"https://zh.wikipedia.org/", "icon":"https://zh.wikipedia.org/favicon.ico", "title":"自由的百科全书" },
 		{ "name":"WikiHow中文", "url":"http://zh.wikihow.com", "icon":"http://zh.wikihow.com/favicon.ico", "title":"您可以编辑的指导手册" },
 		{ "name":"搜狗微信搜索", "url":"http://weixin.sogou.com", "icon":"http://weixin.sogou.com/favicon.ico", "title":"订阅号及文章内容独家收录" },
-		{ "name":"知乎", "url":"http://www.zhihu.com/", "icon":"http://www.zhihu.com/favicon.ico", "title":"知乎问答平台" },
 		{ "name":"Pkgs.org", "url":"http://pkgs.org/", "icon":"http://pkgs.org/static/images/favicon.ico", "title":"Linux 软件包搜索平台" },
 		{ "name":"RPM Search", "url":"http://rpm.pbone.net/", "icon":"http://rpm.pbone.net/favicon.ico", "title":"RPM 软件包搜索" },
 		{ "name":"Nullege.com", "url":"http://nullege.com/", "icon":"http://nullege.com/favicon.ico", "title":"Python 源码搜索引擎" },

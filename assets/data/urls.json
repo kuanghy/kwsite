@@ -5,6 +5,7 @@
 		{ "name":"DuckDuckGo", "url":"https://duckduckgo.com/", "icon":"https://duckduckgo.com/favicon.ico", "title":"DuckDuckGo" },
 		{ "name":"360好搜", "url":"http://www.haosou.com/", "icon":"http://www.haosou.com/favicon.ico", "title":"360好搜" },
 		{ "name":"搜狗搜索", "url":"http://www.sogou.com/", "icon":"http://www.sogou.com/favicon.ico", "title":"搜狗搜索" },
+		{ "name":"搜狗搜索", "url":"https://www.sov5.com/", "icon":"https://www.sov5.com/favicon.ico", "title":"便利、简单和干净的 Python 开发的搜索引擎" },
 		{ "name":"YAHOO中国雅虎", "url":"http://sg.search.yahoo.com/", "icon":"http://sg.search.yahoo.com/favicon.ico", "title":"YAHOO 中国雅虎" },
 		{ "name":"Ask.com", "url":"http://www.ask.com", "icon":"../assets/imgs/favicons/ask.ico", "title":"Ask.com" },
 		{ "name":"Webcrawler.com", "url":"http://www.webcrawler.com", "icon":"http://www.webcrawler.com/favicon.ico", "title":"Webcrawler.com" },

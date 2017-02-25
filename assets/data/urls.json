@@ -40,8 +40,6 @@
 		{ "name":"菜鸟教程", "url":"http://www.w3cschool.cc/", "icon":"http://www.w3cschool.cc/favicon.ico", "title":"菜鸟教程" },
 		{ "name":"W3school", "url":"http://www.w3school.com.cn/", "icon":"http://www.w3school.com.cn/favicon.ico", "title":"W3school" },
 		{ "name":"伯乐在线", "url":"http://www.jobbole.com/", "icon":"http://www.jobbole.com/favicon.ico", "title":"JOBBOLE伯乐在线" },
-		{ "name":"Stackoverflow.com", "url":"http://teliute.org/", "icon":"http://teliute.org/images/favicon.ico", "title":"Stackoverflow.com" },
-		{ "name":"Outofmemory.cn", "url":"http://outofmemory.cn/", "icon":"http://outofmemory.cn/favicon.ico", "title":"内存.溢出" },
 		{ "name":"开发者头条", "url":"http://toutiao.io/", "icon":"http://toutiao.io/favicon.ico", "title":"开发者头条 - 程序员的首选学习分享平台" },
 		{ "name":"易百教程", "url":"http://www.yiibai.com/", "icon":"http://www.yiibai.com/favicon.ico", "title":"易百教程" },
 		{ "name":"码农网", "url":"http://www.codeceo.com/", "icon":"http://www.codeceo.com/wp-content/themes/d-simple/img/logo.png", "title":"码农网" },

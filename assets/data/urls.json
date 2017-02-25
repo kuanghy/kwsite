@@ -36,6 +36,7 @@
 	],
 
 	"technology": [
+		{ "name":"W3cschool.cn", "url":"http://www.w3cschool.cn/", "icon":"http://www.w3cschool.cn/favicon.ico", "title":"W3cschool.cn" },
 		{ "name":"菜鸟教程", "url":"http://www.w3cschool.cc/", "icon":"http://www.w3cschool.cc/favicon.ico", "title":"菜鸟教程" },
 		{ "name":"W3school", "url":"http://www.w3school.com.cn/", "icon":"http://www.w3school.com.cn/favicon.ico", "title":"W3school" },
 		{ "name":"伯乐在线", "url":"http://www.jobbole.com/", "icon":"http://www.jobbole.com/favicon.ico", "title":"JOBBOLE伯乐在线" },

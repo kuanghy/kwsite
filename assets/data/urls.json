@@ -197,6 +197,8 @@
 		{ "name":"HJS Blog", "url":"http://www.hjshust.cn/", "icon":"http://www.hjshust.cn/favicon.ico", "title":"HJS Blog" },
 		{ "name":"颜亚华的博客", "url":"http://yanyahua.com/", "icon":"../assets/imgs/default.ico", "title":"颜亚华的博客" },
 		{ "name":"Yonsm.NET", "url":"http://yonsm.net/", "icon":"http://yonsm.net/favicon.ico", "title":"Yonsm.NET" },
+		{ "name":"晚晴幽草轩", "url":"http://jeffjade.com/", "icon":"http://jeffjade.com/img/xuan.ico", "title":"晚晴幽草轩" },
+		{ "name":"FunHacks", "url":"http://funhacks.net/", "icon":"http://funhacks.net/favicon.ico", "title":"Have fun hacking" },
 		{ "name":"飘过的小牛", "url":"http://github.thinkingbar.com/", "icon":"http://github.thinkingbar.com/favicon.ico", "title":"飘过的小牛" },
 		{ "name":"王垠的博客", "url":"http://www.yinwang.org/", "icon":"http://www.yinwang.org/images/Yc.jpg", "title":"王垠的博客" },
 		{ "name":"简果网-专注IT技术和互联网", "url":"http://www.simapple.com/", "icon":"http://www.simapple.com/sites/default/files/xinicon.png", "title":"简果网-专注IT技术和互联网" },

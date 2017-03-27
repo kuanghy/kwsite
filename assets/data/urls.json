@@ -86,9 +86,10 @@
 	    { "name":"美图秀秀网页版", "url":"http://xiuxiu.web.meitu.com/", "icon":"http://xiuxiu.web.meitu.com/favicon.ico", "title":"美图秀秀网页版" },
 	    { "name":"在线颜色生成器", "url":"http://rgb.pin5i.com/", "icon":"http://rgb.pin5i.com/favicon.ico", "title":"在线颜色生成器" },
 		{ "name":"OSChina在线工具", "url":"http://www.docker.org.cn/", "icon":"http://tool.oschina.net/favicon.ico", "title":"在线工具--OSChina" },
-		{ "name":"在线工具--做最专业的工具网站", "url":"http://tool.lu/", "icon":"http://tool.lu/favicon.ico", "title":"在线工具--做最专业的工具网站" },	
+		{ "name":"在线工具--做最专业的工具网站", "url":"http://tool.lu/", "icon":"http://tool.lu/favicon.ico", "title":"在线工具--做最专业的工具网站" },
 		{ "name":"Linux命令大全", "url":"http://man.linuxde.net/", "icon":"http://man.linuxde.net/favicon.ico", "title":"Linux命令大全" },
 		{ "name":"百度站长平台", "url":"http://zhanzhang.baidu.com/dashboard/index", "icon":"https://www.baidu.com/favicon.ico", "title":"百度站长平台"},
+		{ "name":"百度统计", "url":"https://tongji.baidu.com/", "icon":"https://tongji.baidu.com/favicon.ico", "title":"百度统计"},
 		{ "name":"马克飞象", "url":"https://maxiang.io/", "icon":"https://maxiang.io/favicon.ico", "title":"马克飞象" },
 		{ "name":"小书匠", "url":"http://markdown.xiaoshujiang.com/", "icon":"http://markdown.xiaoshujiang.com/favicon.ico", "title":"小书匠" },
 		{ "name":"Pythontutor.com", "url":"http://pythontutor.com/", "icon":"http://pythontutor.com/favicon.ico", "title":"Online Python Tutor" },
@@ -156,6 +157,7 @@
 	"material": [
 		{ "name":"Easyicon.net", "url":"http://www.easyicon.net/", "icon":"http://cdn-img.easyicon.net/favicon.ico", "title":"easyicon.net" },
 		{ "name":"美图每周", "url":"http://www.picperweek.com/", "icon":"http://www.picperweek.com/favicon.ico", "title":"美图每周" },
+		{ "name":"Pixabay-免费图片", "url":"https://pixabay.com/", "icon":"https://pixabay.com/favicon.ico", "title":"Pixabay-免费图片" },
 		{ "name":" U钙网免费logo设计", "url":"http://www.uugai.com/", "icon":"http://www.uugai.com/favicon.ico", "title":" U钙网-免费logo设计" },
 		{ "name":"门素材", "url":"http://www.17sucai.com/", "icon":"http://www.17sucai.com/static/images/favicon.ico", "title":"门素材" },
 		{ "name":"懒人图库", "url":"http://www.lanrentuku.com/", "icon":"http://www.lanrentuku.com/favicon.ico", "title":"懒人图库" },
@@ -187,8 +189,7 @@
 		{ "name":"CdPHP框架", "url":"http://www.cdvphp.com/", "icon":"../assets/imgs/default.ico", "title":"CdPHP框架" },
 		{ "name":"操作系统安全", "url":"http://blog.chinaunix.net/uid-26275986-id-4070559.html", "icon":"../assets/imgs/default.ico", "title":"操作系统安全--技术博客" },
 		{ "name":"博客文章收藏网", "url":"http://programgo.com/", "icon":"../assets/imgs/default.ico", "title":"博客文章收藏网" },
-		{ "name":"爱密码", "url":"http://521xunlei.com/", "icon":"../assets/imgs/default.ico", "title":"迅雷会员账号分享平台" },
-		{ "name":"迅雷粉", "url":"http://xlfans.com/", "icon":"../assets/imgs/default.ico", "title":"专业的迅雷会员账号分享" }
+		{ "name":"黔乡情", "url":"http://www.qxqq.ren/", "icon":"http://www.qxqq.ren/favicon.ico", "title":"黔乡情官网" }
 	],
 
 	"flink": [

@@ -183,6 +183,7 @@
 		{ "name":"句子迷", "url":"http://www.juzimi.com/", "icon":"http://www.juzimi.com/favicon.ico", "title":"句子迷" },
 		{ "name":"Google 镜像站搜集", "url":"https://github.com/sxyx2008/DevArticles/issues/99", "icon":"../assets/imgs/default.ico", "title":"Google 镜像站搜集" },
 		{ "name":"古诗文网", "url":"http://www.gushiwen.org/", "icon":"http://www.gushiwen.org/favicon.ico", "title":"古诗文网" },
+		{ "name":"诗词名句网", "url":"http://www.shicimingju.com", "icon":"http://www.shicimingju.com/favicon.ico", "title":"诗词名句网 - 古诗词大全|诗歌|诗词鉴赏|古诗名句|诗句赏析！" },
 		{ "name":"古文诗词鉴赏", "url":"http://www.hx5q.cn/", "icon":"http://www.hx5q.cn/favicon.ico", "title":"古文诗词鉴赏" },
 		{ "name":"前端观察", "url":"http://www.qianduan.net/", "icon":"http://www.qianduan.net/favicon.ico", "title":"前端观察" },
 		{ "name":"DzzOffice", "url":"http://www.dzzoffice.com/", "icon":"http://www.dzzoffice.com/favicon.ico", "title":"大桌子云办公平台" },

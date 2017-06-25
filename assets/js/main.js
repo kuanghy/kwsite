@@ -4,8 +4,8 @@
 categorys = {
     se : "搜索引擎",
     usual : "常用网址",
-    technology : "技术学习",
-    tool : "工具资料",
+    community : "技术社区",
+    utils : "工具资料",
     opensource : "开源世界",
     material : "素材模板",
     resources : "资源搜索",

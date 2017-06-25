@@ -35,12 +35,13 @@
 		{ "name":"阿里云", "url":"https://www.aliyun.com/", "icon":"https://www.aliyun.com/favicon.ico", "title":"阿里云" }
 	],
 
-	"technology": [
+	"community": [
 		{ "name":"W3cschool.cn", "url":"http://www.w3cschool.cn/", "icon":"http://www.w3cschool.cn/favicon.ico", "title":"W3cschool.cn" },
 		{ "name":"菜鸟教程", "url":"http://www.w3cschool.cc/", "icon":"http://www.w3cschool.cc/favicon.ico", "title":"菜鸟教程" },
 		{ "name":"W3school", "url":"http://www.w3school.com.cn/", "icon":"http://www.w3school.com.cn/favicon.ico", "title":"W3school" },
 		{ "name":"伯乐在线", "url":"http://www.jobbole.com/", "icon":"http://www.jobbole.com/favicon.ico", "title":"JOBBOLE伯乐在线" },
 		{ "name":"开发者头条", "url":"http://toutiao.io/", "icon":"http://toutiao.io/favicon.ico", "title":"开发者头条 - 程序员的首选学习分享平台" },
+		{ "name":"社区 - JoinQuant", "url":"https://www.joinquant.com/community", "icon":"https://www.joinquant.com/favicon.ico", "title":"社区 - JoinQuant" },
 		{ "name":"易百教程", "url":"http://www.yiibai.com/", "icon":"http://www.yiibai.com/favicon.ico", "title":"易百教程" },
 		{ "name":"码农网", "url":"http://www.codeceo.com/", "icon":"http://www.codeceo.com/wp-content/themes/d-simple/img/logo.png", "title":"码农网" },
 		{ "name":"Ｃ语言中文网", "url":"http://c.biancheng.net/", "icon":"http://c.biancheng.net/cpp/favicon.ico", "title":"Ｃ语言中文网" },
@@ -64,7 +65,6 @@
 		{ "name":"V2EX", "url":"https://www.v2ex.com/", "icon":"https://www.v2ex.com/favicon.ico", "title":"V2EX 是一个关于分享和探索的地方" },
 		{ "name":"Python4cn", "url":"http://www.simple-is-better.com/", "icon":"../assets/imgs/default.ico", "title":" Python4cn:文章 招聘 软件 酷站" },
 		{ "name":"廖雪峰的官方网站", "url":"http://www.liaoxuefeng.com/", "icon":"http://www.liaoxuefeng.com/favicon.ico", "title":"廖雪峰的官方网站" },
-		{ "name":"简明 Python 教程", "url":"http://www.kuqin.com/abyteofpython_cn/index.html", "icon":"http://www.kuqin.com/favicon.ico", "title":"简明 Python 教程" },
 		{ "name":"PythonTab", "url":"http://www.pythontab.com/", "icon":"http://www.pythontab.com/favicon.ico", "title":"PYTHON开发者门户" },
 		{ "name":"玩蛇网", "url":"http://www.iplaypython.com/", "icon":"http://www.iplaypython.com/favicon.ico", "title":"玩蛇网" },
 		{ "name":"老王Python", "url":"http://www.cnpythoner.com/", "icon":"../assets/imgs/default.ico", "title":"老王Python提供简单实用的Python教程" },
@@ -73,15 +73,12 @@
 		{ "name":"Django基础教程", "url":"http://www.ziqiangxuetang.com/django/django-tutorial.html", "icon":"http://www.ziqiangxuetang.com/favicon.ico", "title":"Django基础教程" },
 		{ "name":"Django Step by Step", "url":"http://www.lhelper.org/dev/django_step_by_step/newtest/doc/", "icon":"../assets/imgs/default.ico", "title":"Django Step by Step" },
 		{ "name":"Python中国社区", "url":"http://www.python88.com/", "icon":"http://www.python88.com/favicon.ico", "title":"Python中国社区 - 专注于Python中国技术发展的社区" },
-		{ "name":"djangochina", "url":"http://www.djangochina.cn/", "icon":"http://www.djangochina.cn/favicon.ico", "title":"Django中国 | Django中文社区" },
 		{ "name":"Flask 中文学习网", "url":"http://flask123.sinaapp.com/", "icon":"http://flask123.sinaapp.com/favicon.ico", "title":"分享Flask教程、扩展插件、编程技巧" },
 		{ "name":"编程派", "url":"http://www.codingpy.com/", "icon":"http://www.codingpy.com/favicon.ico", "title":"编程派(codingpy)" },
-		{ "name":"Docker 中文社区", "url":"http://www.docker.org.cn/", "icon":"http://www.docker.org.cn/favicon.ico", "title":"Docker 中文社区" },
-		{ "name":"NodeJs 入门教程", "url":"http://nqdeng.github.io/7-days-nodejs/", "icon":"../assets/imgs/default.ico", "title":"七天学会NodeJS"},
-		{ "name":"JavaScript Garden", "url":"http://bonsaiden.github.io/JavaScript-Garden/zh/", "icon":"http://bonsaiden.github.io/JavaScript-Garden/favicon.ico", "title":"JavaScript 秘密花园 中文"}
+		{ "name":"Docker 中文社区", "url":"http://www.docker.org.cn/", "icon":"http://www.docker.org.cn/favicon.ico", "title":"Docker 中文社区" }
 	],
 
-	"tool": [
+	"utils": [
         { "name":"PS 在线版", "url":"http://www.uupoop.com/", "icon":"http://www.uupoop.com/favicon.ico", "title":"Photoshop 在线精简版" },
 	    { "name":"美图秀秀网页版", "url":"http://xiuxiu.web.meitu.com/", "icon":"http://xiuxiu.web.meitu.com/favicon.ico", "title":"美图秀秀网页版" },
 	    { "name":"在线颜色生成器", "url":"http://rgb.pin5i.com/", "icon":"http://rgb.pin5i.com/favicon.ico", "title":"在线颜色生成器" },
@@ -115,6 +112,7 @@
 		{ "name":"Python官方文档中文站", "url":"http://python.usyiyi.cn/", "icon":"https://www.python.org/static/favicon.ico", "title":"Python官方文档中文站" },
 		{ "name":"Debian 新维护人员手册", "url":"https://www.debian.org/doc/manuals/maint-guide/index.zh-cn.html", "icon":"https://www.debian.org/favicon.ico", "title":"Debian 新维护人员手册" },
 		{ "name":"Git-Book 简体中文", "url":"http://git-scm.com/book/zh/v2", "icon":"http://git-scm.com/favicon.ico", "title":"Git-Book 简体中文"},
+		{ "name":"简明 Python 教程", "url":"http://www.kuqin.com/abyteofpython_cn/index.html", "icon":"http://www.kuqin.com/favicon.ico", "title":"简明 Python 教程" },
 		{ "name":"The Django Book", "url":"http://djangobook.py3k.cn/2.0/", "icon":"../assets/imgs/default.ico", "title":"The Django Book" },
 		{ "name":"Django1.5 中文文档", "url":"http://django-chinese-docs.readthedocs.org/en/latest/", "icon":"../assets/imgs/default.ico", "title":"Django1.5 中文文档" },
 		{ "name":"Flask 中文文档", "url":"http://dormousehole.readthedocs.org/en/latest/", "icon":"http://dormousehole.readthedocs.org/favicon.ico", "title":"Flask 中文文档" },
@@ -134,8 +132,10 @@
 		{ "name":"Fabric 中文文档", "url":"https://fabric-chs.readthedocs.io/zh_CN/chs/", "icon":"https://fabric-chs.readthedocs.io/favicon.ico", "title":"Fabric 中文文档"},
 		{ "name":"uWSGI 中文文档", "url":"http://uwsgi-docs-zh.readthedocs.io/", "icon":"http://uwsgi-docs-zh.readthedocs.io/favicon.ico", "title":"uWSGI项目 - uWSGI文档"},
 		{ "name":"手册网", "url":"http://www.shoucewang.com/", "icon":"http://www.shoucewang.com/favicon.ico", "title":"手册网"},
-		{ "name":"命令参考(SS64)", "url":"http://ss64.com/", "icon":"http://ss64.com/favicon.ico", "title":"Command line reference – Web, Database and OS scripting."}
-
+		{ "name":"命令参考(SS64)", "url":"http://ss64.com/", "icon":"http://ss64.com/favicon.ico", "title":"Command line reference – Web, Database and OS scripting."},
+		{ "name":"NodeJs 入门教程", "url":"http://nqdeng.github.io/7-days-nodejs/", "icon":"../assets/imgs/default.ico", "title":"七天学会NodeJS"},
+		{ "name":"JavaScript Garden", "url":"http://bonsaiden.github.io/JavaScript-Garden/zh/", "icon":"http://bonsaiden.github.io/JavaScript-Garden/favicon.ico", "title":"JavaScript 秘密花园 中文"},
+		{ "name":"Python web 入坑指南", "url":"http://python-web-guide.readthedocs.io/", "icon":"http://python-web-guide.readthedocs.io/favicon.ico", "title":"Python web 入坑指南"}
 	],
 
 	"opensource": [
@@ -203,6 +203,7 @@
 		{ "name":"Yonsm.NET", "url":"http://yonsm.net/", "icon":"http://yonsm.net/favicon.ico", "title":"Yonsm.NET" },
 		{ "name":"晚晴幽草轩", "url":"http://jeffjade.com/", "icon":"http://jeffjade.com/img/xuan.ico", "title":"晚晴幽草轩" },
 		{ "name":"FunHacks", "url":"http://funhacks.net/", "icon":"http://funhacks.net/favicon.ico", "title":"Have fun hacking" },
+		{ "name":"Python之禅", "url":"https://foofish.net/", "icon":"https://foofish.net/favicon.ico", "title":"Python之禅 - FooFish" },
 		{ "name":"飘过的小牛", "url":"http://github.thinkingbar.com/", "icon":"http://github.thinkingbar.com/favicon.ico", "title":"飘过的小牛" },
 		{ "name":"王垠的博客", "url":"http://www.yinwang.org/", "icon":"http://www.yinwang.org/images/Yc.jpg", "title":"王垠的博客" },
 		{ "name":"简果网-专注IT技术和互联网", "url":"http://www.simapple.com/", "icon":"http://www.simapple.com/sites/default/files/xinicon.png", "title":"简果网-专注IT技术和互联网" },

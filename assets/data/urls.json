@@ -135,7 +135,8 @@
 		{ "name":"命令参考(SS64)", "url":"http://ss64.com/", "icon":"http://ss64.com/favicon.ico", "title":"Command line reference – Web, Database and OS scripting."},
 		{ "name":"NodeJs 入门教程", "url":"http://nqdeng.github.io/7-days-nodejs/", "icon":"../assets/imgs/default.ico", "title":"七天学会NodeJS"},
 		{ "name":"JavaScript Garden", "url":"http://bonsaiden.github.io/JavaScript-Garden/zh/", "icon":"http://bonsaiden.github.io/JavaScript-Garden/favicon.ico", "title":"JavaScript 秘密花园 中文"},
-		{ "name":"Python web 入坑指南", "url":"http://python-web-guide.readthedocs.io/", "icon":"http://python-web-guide.readthedocs.io/favicon.ico", "title":"Python web 入坑指南"}
+		{ "name":"Python web 入坑指南", "url":"http://doc.redisfans.com/index.html", "icon":"http://python-web-guide.readthedocs.io/favicon.ico", "title":"Python web 入坑指南"},
+		{ "name":"Redis 命令参考", "url":"http://python-web-guide.readthedocs.io/", "icon":"https://redis.io//images/favicon.png", "title":"Redis 命令参考"}
 	],
 
 	"opensource": [

@@ -91,6 +91,7 @@
 		{ "name":"百度统计", "url":"https://tongji.baidu.com/", "icon":"https://tongji.baidu.com/favicon.ico", "title":"百度统计"},
 		{ "name":"马克飞象", "url":"https://maxiang.io/", "icon":"https://maxiang.io/favicon.ico", "title":"马克飞象" },
 		{ "name":"小书匠", "url":"http://markdown.xiaoshujiang.com/", "icon":"http://markdown.xiaoshujiang.com/favicon.ico", "title":"小书匠" },
+		{ "name":"繁体字网", "url":"http://www.fantizi5.com", "icon":"http://www.fantizi5.com/favicon.ico", "title":"繁体字网-繁体字查询-繁体字在线转换-繁体字转换器" },
 		{ "name":"Pythontutor.com", "url":"http://pythontutor.com/", "icon":"http://pythontutor.com/favicon.ico", "title":"Online Python Tutor" },
 		{ "name":"Ideone.com", "url":"http://ideone.com/", "icon":"http://ideone.com/favicon.ico", "title":"Ideone.com" },
 		{ "name":"Codepad.org", "url":"http://codepad.org/", "icon":"../assets/imgs/default.ico", "title":"Codepad.org" },

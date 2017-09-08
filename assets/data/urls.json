@@ -34,6 +34,7 @@
 		{ "name":"外刊IT评论", "url":"http://www.vaikan.com/", "icon":"http://www.vaikan.com/favicon.ico", "title":"外刊IT评论" },
 		{ "name":"阿里云", "url":"https://www.aliyun.com/", "icon":"https://www.aliyun.com/favicon.ico", "title":"阿里云" },
 		{ "name":"图虫网", "url":"https://tuchong.com/", "icon":"https://tuchong.com/favicon.ico", "title":"图虫网 - 最好的摄影师都在这" },
+		{ "name":"1x", "url":"https://1x.com/", "icon":"https://1x.com/favicon.ico", "title":"1x - Curated photography" },
 		{ "name":"500px", "url":"https://500px.com/", "icon":"https://500px.com/favicon.ico", "title":"最出色的摄影社区 / 500px" }
 	],
 

@@ -200,8 +200,6 @@
 	"flink": [
 		{ "name":"JoinQuant", "url":"https://www.joinquant.com/", "icon":"https://www.joinquant.com/favicon.ico", "title":"聚宽量化交易平台" },
 		{ "name":"NaRay", "url":"http://www.cnblogs.com/naray/", "icon":"http://www.cnblogs.com/favicon.ico", "title":"NaRay" },
-		{ "name":"HJS Blog", "url":"http://www.hjshust.cn/", "icon":"http://www.hjshust.cn/favicon.ico", "title":"HJS Blog" },
-		{ "name":"颜亚华的博客", "url":"http://yanyahua.com/", "icon":"../assets/imgs/default.ico", "title":"颜亚华的博客" },
 		{ "name":"Yonsm.NET", "url":"http://yonsm.net/", "icon":"http://yonsm.net/favicon.ico", "title":"Yonsm.NET" },
 		{ "name":"晚晴幽草轩", "url":"http://jeffjade.com/", "icon":"http://jeffjade.com/img/xuan.ico", "title":"晚晴幽草轩" },
 		{ "name":"Seay博客", "url":"http://www.cnseay.com/", "icon":"http://www.cnseay.com/favicon.ico", "title":"Seay博客 渗透 编程 创业 代码安全审计 致力于更专业的网络安全博客" },

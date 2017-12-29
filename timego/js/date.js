@@ -67,5 +67,5 @@ $(document).ready(function() {
     timeString += "&nbsp;&nbsp;" + lunar.IMonthCn + lunar.IDayCn + '&nbsp;&nbsp;' 
         + lunar.gzYear + '年' + lunar.gzMonth + '月' + lunar.gzDay + '日（' + lunar.Animal + '年）';
 
-    document.getElementById("clock").innerHTML = timeString;
+    document.getElementById("today_info").innerHTML = timeString;
 });

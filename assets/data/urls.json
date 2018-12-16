@@ -82,6 +82,8 @@
 	],
 
 	"utils": [
+        { "name":"汉语言文学网", "url":"http://wyw.hwxnet.com", "icon":"http://wyw.hwxnet.com/images/favicon.ico", "title":"文言文字典|古汉语字典|文言文翻译|文言文大全-汉语言文学网" },
+        { "name":"文言文在线词典", "url":"http://gw.eywedu.com", "icon":"http://gw.eywedu.com/favicon.ico", "title":"文言文在线词典" },
         { "name":"PS 在线版", "url":"http://www.uupoop.com/", "icon":"http://www.uupoop.com/favicon.ico", "title":"Photoshop 在线精简版" },
         { "name":"美图秀秀网页版", "url":"http://xiuxiu.web.meitu.com/", "icon":"http://xiuxiu.web.meitu.com/favicon.ico", "title":"美图秀秀网页版" },
         { "name":"在线颜色生成器", "url":"http://rgb.pin5i.com/", "icon":"http://rgb.pin5i.com/favicon.ico", "title":"在线颜色生成器" },

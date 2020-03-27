@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="keywords" content="个人主页, 旷世的忧伤, 网址导航"/>
+<meta name="description" content="旷世的忧伤，个人主页"/>
+<meta name="author" content="Huoty"/>
+<title>旷世的忧伤 | Huoty's Homepage</title>
+<link rel="shortcut icon" href="assets/imgs/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
+</head>
+<body>
+<div id="half">
+    <div class="header">
+        <!-- 页面头部 -->
+        <div class="head-logo">
+            <a href="#"><img src="assets/imgs/logo.png"/></a>
+            <span>不与夏虫语寒，不与曲人语道，因为生命缺乏言说的条件......</span>
+        </div>
+        <div class="ullicss">
+            <ul id="menu">
+                <li><a target="_self" href="index.html">首页</a></li>
+                <li><a target="_self" href="search/index.html">搜索引擎</a></li>
+                <li><a target="_self" href="navigation/index.html">网址导航</a></li>
+                <li><a target="_self" href="essay/index.html">心情随笔</a></li>
+                <li><a target="_self" href="album/index.html">我的相册</a></li>
+                <li><a target="_self" href="timego/index.html">逝者如斯</a></li>
+                <li><a target="_blank" href="http://blog.konghy.cn">个人博客</a></li>
+                <li><a target="" href="">其他</a>
+                    <ul>
+                        <li><a target="_blank" href="http://opus.konghy.cn/">MY Opus</a></li>
+                        <li><a target="_blank" href="http://opus.konghy.cn/shell-tutorial/">Shell编程教程</a></li>
+                        <li><a target="_blank" href="http://kuanghy.github.io/kswd/">旷世网址导航</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- end header -->
+    <div class="content">
+        <div class="willerce">
+            <a href="./"><img class="avatar" src="assets/imgs/khy_face_130.png" alt="" width="128" height="128"/></a>
+            <h1>旷修</h1>
+            <p>
+                软件工程师 @ 计算机科学与电子工程爱好者. &nbsp;关于我的更多资料可以看<a href="http://blog.konghy.cn/2015/05/10/aboutme">这里</a>.
+            </p>
+            <p style="height: 24px; line-height: 24px; margin: 15px 0;">
+                <img style="vertical-align: bottom; margin-right: 10px;" src="assets/imgs/map_24px.png"/> 北京海淀 &middot; 中国
+            </p>
+            <p id='iciba_ds'>
+                <!-- 为人者，大爱，大道，大学；为学者，致知，致用，致远. -->
+            </p>
+        </div>
+        <div style="margin-bottom:60px;"></div>
+    </div>
+    <!-- end content -->
+</div>
+<!-- end half -->
+<div id="footer">
+    <!-- 页脚 -->
+    <div class="title">
+        <h2>Huoty's&nbsp;&nbsp;Homepage</h2>
+        <span class="byline">You are uinique and nothing can replace you</span>
+    </div>
+    <ul class="contact">
+        <li><img src="assets/imgs/social/email_32.png" class="img-responsive" title="Email：sudohuoty@163.com"/></li>
+        <li><img src="assets/imgs/social/qq_32.png" class="img-responsive" title="QQ：1346632121"/></li>
+        <li><img src="assets/imgs/social/weixin_32.png" class="img-responsive" title="Weixin: k2010131080"/></li>
+        <li><a href="http://weibo.com/loveqing2013" target="_blank"><img src="assets/imgs/social/weibo_32.png" class="img-responsive" title="点击查看我的微博"/></a></li>
+    </ul>
+    <p>
+         Design by <a href="/kwsite">Huoty</a> @ <a href="http://github.com/kuanghy/kwsite" target="_blank">Github</a> | Copyright &copy; 2015-<span id="cur_year"></span> <a href="/kwsite/">Huoty</a> - All Rights Reserved | <a href="./about/">About this site</a>.
+    </p>
+</div>
+<!-- end footer -->
+<script type="text/javascript">
+    var cur_date = new Date();
+    document.getElementById("cur_year").innerHTML = cur_date.getFullYear();
+
+    function showIcibaDS(ds_data)
+    {
+        // show daily sentence
+        content = ds_data.content;
+        note = ds_data.note;
+        ds_p = document.getElementById("iciba_ds")
+        var content_span = document.createElement('span');
+        var note_span = document.createElement('span');
+        var br = document.createElement('br')
+        content_span.innerHTML = content
+        note_span.innerHTML = note
+        ds_p.appendChild(content_span);
+        ds_p.appendChild(br);
+        ds_p.appendChild(note_span);
+    }
+</script>
+<script type="text/javascript" src="http://open.iciba.com/dsapi/?callback=showIcibaDS"></script>
+</body>
+</html>
